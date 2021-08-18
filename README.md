@@ -4,7 +4,7 @@ Project to collect weather data over time. Goal is to understand how forecasts a
 
 ## GIST of the Approach
 
-1. Get data from NWS API for a few locations on a regular basis (leveraging the [Flat Data Project](https://octo.github.com/projects/flat-data)
+1. Get data from NWS API for a few locations on a regular basis (leveraging the [Flat Data Project](https://octo.github.com/projects/flat-data))
 2. Post process the data to create a dataset organized to have a historical view
 3. Create a set of pages that allow a user to explore the history over time
 
