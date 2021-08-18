@@ -26,3 +26,4 @@ jobs:
         with:
           http_url: https://api.weather.gov/gridpoints/BOX/67,78/forecast # The data to fetch every 5 minutes
           downloaded_filename: forecast.json # The http_url gets saved and renamed in our repository as forecast.json
+          postprocess: postprocess.js
