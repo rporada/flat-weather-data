@@ -41,7 +41,7 @@
         "updated": "2021-08-19T10:21:59+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-19T13:33:38+00:00",
+        "generatedAt": "2021-08-19T16:53:40+00:00",
         "updateTime": "2021-08-19T10:21:59+00:00",
         "validTimes": "2021-08-19T04:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-08-19T09:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-08-19T12:00:00-04:00",
                 "endTime": "2021-08-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,70/ovc,80?size=medium",
-                "shortForecast": "Patchy Fog then Cloudy",
-                "detailedForecast": "A chance of rain showers before 10am, then a chance of rain showers and patchy fog between 10am and 11am, then patchy fog and showers and thunderstorms likely between 11am and noon. Some of the storms could produce heavy rain. Cloudy, with a high near 80. Southeast wind 6 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc,80?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 80. Southeast wind around 12 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
