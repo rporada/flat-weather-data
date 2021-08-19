@@ -41,7 +41,7 @@
         "updated": "2021-08-19T19:43:25+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-19T20:31:31+00:00",
+        "generatedAt": "2021-08-19T21:26:52+00:00",
         "updateTime": "2021-08-19T19:43:25+00:00",
         "validTimes": "2021-08-19T13:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-08-19T16:00:00-04:00",
+                "startTime": "2021-08-19T17:00:00-04:00",
                 "endTime": "2021-08-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "12 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn,20?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 81. South wind around 12 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 81. South wind around 12 mph."
             },
             {
                 "number": 2,
