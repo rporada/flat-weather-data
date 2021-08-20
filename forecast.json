@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-20T06:52:52+00:00",
+        "updated": "2021-08-20T09:07:51+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-20T08:34:38+00:00",
-        "updateTime": "2021-08-20T06:52:52+00:00",
-        "validTimes": "2021-08-20T00:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-20T09:32:42+00:00",
+        "updateTime": "2021-08-20T09:07:51+00:00",
+        "validTimes": "2021-08-20T03:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-08-20T04:00:00-04:00",
+                "startTime": "2021-08-20T05:00:00-04:00",
                 "endTime": "2021-08-20T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 72,
+                "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
-                "windDirection": "W",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers before 5am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 72. West wind around 5 mph. Chance of precipitation is 30%."
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers and patchy fog. Mostly cloudy, with a low around 73. Northwest wind around 5 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -118,11 +118,11 @@
                 "temperature": 69,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": null,
-                "windDirection": null,
-                "icon": "https://api.weather.gov/icons/land/night/tropical_storm,30/tropical_storm,40?size=medium",
-                "shortForecast": "Tropical Storm Conditions Possible",
-                "detailedForecast": "Tropical storm conditions possible. A chance of showers and thunderstorms after 9pm. Mostly cloudy, with a low around 69. Chance of precipitation is 40%."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,30/tsra,40?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms after 9pm. Mostly cloudy, with a low around 69. East wind 6 to 10 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 6,
@@ -193,11 +193,11 @@
                 "temperature": 85,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi/sct?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Sunny",
-                "detailedForecast": "A slight chance of showers and thunderstorms before noon. Mostly sunny, with a high near 85. West wind around 6 mph."
+                "windSpeed": null,
+                "windDirection": null,
+                "icon": "https://api.weather.gov/icons/land/day/tropical_storm?size=medium",
+                "shortForecast": "Tropical Storm Conditions Possible",
+                "detailedForecast": "Tropical storm conditions possible. A slight chance of showers and thunderstorms before noon. Mostly sunny, with a high near 85."
             },
             {
                 "number": 11,
