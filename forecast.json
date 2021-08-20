@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-20T09:07:51+00:00",
+        "updated": "2021-08-20T15:27:42+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-20T14:29:25+00:00",
-        "updateTime": "2021-08-20T09:07:51+00:00",
-        "validTimes": "2021-08-20T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-20T16:53:08+00:00",
+        "updateTime": "2021-08-20T15:27:42+00:00",
+        "validTimes": "2021-08-20T09:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-08-20T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-08-20T12:00:00-04:00",
                 "endTime": "2021-08-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 84,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 84. Northwest wind around 6 mph."
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers before 1pm. Mostly cloudy, with a high near 84. North wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
+                "windSpeed": "1 to 6 mph",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 71. Southwest wind around 3 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 71. South wind 1 to 6 mph."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 86,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "1 to 9 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 1pm and 3pm. Partly sunny, with a high near 86. South wind 2 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers between 1pm and 3pm. Partly sunny, with a high near 86. South wind 1 to 9 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 4,
@@ -107,7 +107,7 @@
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,30/tsra,40?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms after 9pm. Mostly cloudy, with a low around 69. East wind 6 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of showers and thunderstorms after 9pm. Mostly cloudy, with a low around 69. East wind 6 to 10 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 5,
