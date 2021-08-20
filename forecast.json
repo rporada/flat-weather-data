@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-20T21:03:33+00:00",
+        "updated": "2021-08-20T22:25:44+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-20T21:30:49+00:00",
-        "updateTime": "2021-08-20T21:03:33+00:00",
-        "validTimes": "2021-08-20T15:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-20T22:32:34+00:00",
+        "updateTime": "2021-08-20T22:25:44+00:00",
+        "validTimes": "2021-08-20T16:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -51,36 +51,21 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2021-08-20T17:00:00-04:00",
-                "endTime": "2021-08-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 84,
-                "temperatureUnit": "F",
-                "temperatureTrend": "falling",
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 84, with temperatures falling to around 78 in the afternoon. East wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2021-08-20T18:00:00-04:00",
                 "endTime": "2021-08-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 71,
+                "temperature": 72,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 71. South wind 1 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 72. South wind around 2 mph."
             },
             {
-                "number": 3,
+                "number": 2,
                 "name": "Saturday",
                 "startTime": "2021-08-21T06:00:00-04:00",
                 "endTime": "2021-08-21T18:00:00-04:00",
@@ -95,7 +80,7 @@
                 "detailedForecast": "A slight chance of showers and thunderstorms after noon. Mostly cloudy, with a high near 85. Southeast wind 1 to 9 mph. Chance of precipitation is 20%."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Saturday Night",
                 "startTime": "2021-08-21T18:00:00-04:00",
                 "endTime": "2021-08-22T06:00:00-04:00",
@@ -110,7 +95,7 @@
                 "detailedForecast": "A slight chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 70. East wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Sunday",
                 "startTime": "2021-08-22T06:00:00-04:00",
                 "endTime": "2021-08-22T18:00:00-04:00",
@@ -122,10 +107,10 @@
                 "windDirection": null,
                 "icon": "https://api.weather.gov/icons/land/day/tropical_storm,60/tropical_storm,70?size=medium",
                 "shortForecast": "Tropical Storm Conditions Possible",
-                "detailedForecast": "Tropical storm conditions possible. Showers and thunderstorms likely. Cloudy, with a high near 75. Chance of precipitation is 70%."
+                "detailedForecast": "Tropical storm conditions possible. Showers and thunderstorms likely. Cloudy, with a high near 75. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Sunday Night",
                 "startTime": "2021-08-22T18:00:00-04:00",
                 "endTime": "2021-08-23T06:00:00-04:00",
@@ -140,7 +125,7 @@
                 "detailedForecast": "Tropical storm conditions possible. Showers and thunderstorms likely. Cloudy, with a low around 69. Chance of precipitation is 60%."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Monday",
                 "startTime": "2021-08-23T06:00:00-04:00",
                 "endTime": "2021-08-23T18:00:00-04:00",
@@ -155,7 +140,7 @@
                 "detailedForecast": "Tropical storm conditions possible. A chance of rain showers before 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 80. Chance of precipitation is 50%."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Monday Night",
                 "startTime": "2021-08-23T18:00:00-04:00",
                 "endTime": "2021-08-24T06:00:00-04:00",
@@ -170,7 +155,7 @@
                 "detailedForecast": "Tropical storm conditions possible. A chance of showers and thunderstorms before 2am. Mostly cloudy, with a low around 70. Chance of precipitation is 40%."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Tuesday",
                 "startTime": "2021-08-24T06:00:00-04:00",
                 "endTime": "2021-08-24T18:00:00-04:00",
@@ -185,7 +170,7 @@
                 "detailedForecast": "Tropical storm conditions possible. Patchy fog between 8am and 9am. Mostly sunny, with a high near 85."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Tuesday Night",
                 "startTime": "2021-08-24T18:00:00-04:00",
                 "endTime": "2021-08-25T06:00:00-04:00",
@@ -200,7 +185,7 @@
                 "detailedForecast": "Patchy fog after 1am. Mostly clear, with a low around 70. West wind 2 to 6 mph."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Wednesday",
                 "startTime": "2021-08-25T06:00:00-04:00",
                 "endTime": "2021-08-25T18:00:00-04:00",
@@ -215,7 +200,7 @@
                 "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 87. Southwest wind 2 to 6 mph."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Wednesday Night",
                 "startTime": "2021-08-25T18:00:00-04:00",
                 "endTime": "2021-08-26T06:00:00-04:00",
@@ -230,7 +215,7 @@
                 "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 71. South wind around 6 mph."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Thursday",
                 "startTime": "2021-08-26T06:00:00-04:00",
                 "endTime": "2021-08-26T18:00:00-04:00",
@@ -245,7 +230,7 @@
                 "detailedForecast": "Patchy fog before 8am, then a slight chance of rain showers between 10am and 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 87. Southwest wind 5 to 8 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Thursday Night",
                 "startTime": "2021-08-26T18:00:00-04:00",
                 "endTime": "2021-08-27T06:00:00-04:00",
@@ -258,6 +243,21 @@
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms",
                 "detailedForecast": "A slight chance of showers and thunderstorms before 3am, then patchy fog and a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 70. Southwest wind around 7 mph."
+            },
+            {
+                "number": 14,
+                "name": "Friday",
+                "startTime": "2021-08-27T06:00:00-04:00",
+                "endTime": "2021-08-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers and patchy fog. Partly sunny, with a high near 82. Northwest wind around 7 mph. Chance of precipitation is 30%."
             }
         ]
     }
