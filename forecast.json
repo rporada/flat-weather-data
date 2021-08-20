@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-20T15:27:42+00:00",
+        "updated": "2021-08-20T17:27:37+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-20T16:53:08+00:00",
-        "updateTime": "2021-08-20T15:27:42+00:00",
-        "validTimes": "2021-08-20T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-20T17:36:23+00:00",
+        "updateTime": "2021-08-20T17:27:37+00:00",
+        "validTimes": "2021-08-20T11:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-08-20T12:00:00-04:00",
+                "startTime": "2021-08-20T13:00:00-04:00",
                 "endTime": "2021-08-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 84,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers before 1pm. Mostly cloudy, with a high near 84. North wind around 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 84. North wind around 5 mph."
             },
             {
                 "number": 2,
