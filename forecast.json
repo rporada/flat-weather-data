@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-21T07:22:27+00:00",
+        "updated": "2021-08-21T09:03:54+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-21T08:33:43+00:00",
-        "updateTime": "2021-08-21T07:22:27+00:00",
-        "validTimes": "2021-08-21T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-21T09:32:05+00:00",
+        "updateTime": "2021-08-21T09:03:54+00:00",
+        "validTimes": "2021-08-21T03:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-08-21T04:00:00-04:00",
+                "startTime": "2021-08-21T05:00:00-04:00",
                 "endTime": "2021-08-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 74,
@@ -148,11 +148,11 @@
                 "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": null,
-                "windDirection": null,
-                "icon": "https://api.weather.gov/icons/land/night/tropical_storm,40/tropical_storm,30?size=medium",
-                "shortForecast": "Tropical Storm Conditions Possible",
-                "detailedForecast": "Tropical storm conditions possible. A chance of showers and thunderstorms. Mostly cloudy, with a low around 71. Chance of precipitation is 40%."
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/tsra_hi,30?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 71. Southwest wind 7 to 15 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 8,
