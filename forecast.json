@@ -41,7 +41,7 @@
         "updated": "2021-08-22T15:18:00+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-22T15:35:35+00:00",
+        "generatedAt": "2021-08-22T17:34:47+00:00",
         "updateTime": "2021-08-22T15:18:00+00:00",
         "validTimes": "2021-08-22T09:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-08-22T11:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-08-22T13:00:00-04:00",
                 "endTime": "2021-08-22T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "16 to 24 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100/tsra,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms. Cloudy, with a high near 76. East wind 16 to 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Patchy fog and showers and thunderstorms. Cloudy, with a high near 76. East wind 16 to 24 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
