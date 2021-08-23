@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-22T22:48:54+00:00",
+        "updated": "2021-08-23T00:15:20+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-22T23:30:35+00:00",
-        "updateTime": "2021-08-22T22:48:54+00:00",
-        "validTimes": "2021-08-22T16:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-23T01:18:57+00:00",
+        "updateTime": "2021-08-23T00:15:20+00:00",
+        "validTimes": "2021-08-22T18:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-08-22T19:00:00-04:00",
+                "startTime": "2021-08-22T21:00:00-04:00",
                 "endTime": "2021-08-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers?size=medium",
-                "shortForecast": "Scattered Rain Showers then Patchy Drizzle",
-                "detailedForecast": "Scattered rain showers before 8pm, then patchy fog and isolated rain showers between 8pm and 11pm, then patchy drizzle and patchy fog and isolated rain showers. Cloudy, with a low around 71. Southeast wind 6 to 12 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Patchy Fog then Patchy Drizzle",
+                "detailedForecast": "Patchy fog and isolated rain showers before 11pm, then patchy drizzle and patchy fog and isolated rain showers. Cloudy, with a low around 71. Southeast wind 6 to 9 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
