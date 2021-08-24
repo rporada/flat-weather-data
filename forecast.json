@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-24T11:11:17+00:00",
+        "updated": "2021-08-24T14:03:59+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-24T13:32:56+00:00",
-        "updateTime": "2021-08-24T11:11:17+00:00",
-        "validTimes": "2021-08-24T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-24T14:30:08+00:00",
+        "updateTime": "2021-08-24T14:03:59+00:00",
+        "validTimes": "2021-08-24T08:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-08-24T09:00:00-04:00",
+                "startTime": "2021-08-24T10:00:00-04:00",
                 "endTime": "2021-08-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 86,
