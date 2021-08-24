@@ -41,7 +41,7 @@
         "updated": "2021-08-24T11:11:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-24T11:27:17+00:00",
+        "generatedAt": "2021-08-24T13:32:56+00:00",
         "updateTime": "2021-08-24T11:11:17+00:00",
         "validTimes": "2021-08-24T05:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-08-24T07:00:00-04:00",
+                "startTime": "2021-08-24T09:00:00-04:00",
                 "endTime": "2021-08-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 86,
@@ -61,8 +61,8 @@
                 "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers before 11am. Mostly sunny, with a high near 86. Northwest wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain showers before 11am. Mostly sunny, with a high near 86. Northwest wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
