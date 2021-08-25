@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-25T07:40:02+00:00",
+        "updated": "2021-08-25T14:07:21+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-25T10:26:23+00:00",
-        "updateTime": "2021-08-25T07:40:02+00:00",
-        "validTimes": "2021-08-25T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-25T14:20:23+00:00",
+        "updateTime": "2021-08-25T14:07:21+00:00",
+        "validTimes": "2021-08-25T08:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-08-25T06:00:00-04:00",
+                "startTime": "2021-08-25T10:00:00-04:00",
                 "endTime": "2021-08-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 93,
                 "temperatureUnit": "F",
-                "temperatureTrend": "falling",
+                "temperatureTrend": null,
                 "windSpeed": "5 mph",
-                "windDirection": "NW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 93, with temperatures falling to around 87 in the afternoon. Northwest wind around 5 mph."
+                "detailedForecast": "Sunny, with a high near 93. West wind around 5 mph."
             },
             {
                 "number": 2,
