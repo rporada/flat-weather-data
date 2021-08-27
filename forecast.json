@@ -41,7 +41,7 @@
         "updated": "2021-08-26T23:43:50+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-27T02:32:32+00:00",
+        "generatedAt": "2021-08-27T04:29:25+00:00",
         "updateTime": "2021-08-26T23:43:50+00:00",
         "validTimes": "2021-08-26T17:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-08-26T22:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2021-08-27T00:00:00-04:00",
                 "endTime": "2021-08-27T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 74,
