@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-28T20:45:09+00:00",
+        "updated": "2021-08-28T22:37:25+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-28T22:21:32+00:00",
-        "updateTime": "2021-08-28T20:45:09+00:00",
-        "validTimes": "2021-08-28T14:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-29T01:12:39+00:00",
+        "updateTime": "2021-08-28T22:37:25+00:00",
+        "validTimes": "2021-08-28T16:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-08-28T18:00:00-04:00",
+                "startTime": "2021-08-28T21:00:00-04:00",
                 "endTime": "2021-08-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 63. East wind 2 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers. Mostly cloudy, with a low around 63. East wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 80. Southeast wind 2 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 7am. Mostly cloudy, with a high near 80. Southeast wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
