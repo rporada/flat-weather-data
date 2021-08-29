@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-29T11:21:38+00:00",
+        "updated": "2021-08-29T13:54:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-29T12:33:35+00:00",
-        "updateTime": "2021-08-29T11:21:38+00:00",
-        "validTimes": "2021-08-29T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-29T14:19:15+00:00",
+        "updateTime": "2021-08-29T13:54:17+00:00",
+        "validTimes": "2021-08-29T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-08-29T08:00:00-04:00",
+                "startTime": "2021-08-29T10:00:00-04:00",
                 "endTime": "2021-08-29T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 9am. Partly sunny, with a high near 78. South wind 2 to 7 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 78. South wind 3 to 7 mph."
             },
             {
                 "number": 2,
