@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-08-28T22:37:25+00:00",
+        "updated": "2021-08-29T06:59:07+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-08-29T06:26:08+00:00",
-        "updateTime": "2021-08-28T22:37:25+00:00",
-        "validTimes": "2021-08-28T16:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-08-29T08:24:05+00:00",
+        "updateTime": "2021-08-29T06:59:07+00:00",
+        "validTimes": "2021-08-29T00:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-08-29T02:00:00-04:00",
+                "startTime": "2021-08-29T04:00:00-04:00",
                 "endTime": "2021-08-29T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 63,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Mostly cloudy, with a low around 63. East wind around 2 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 5am. Mostly cloudy, with a low around 64. East wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-08-29T06:00:00-04:00",
                 "endTime": "2021-08-29T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 80,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before 7am. Mostly cloudy, with a high near 80. Southeast wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 78. Southeast wind 2 to 7 mph."
             },
             {
                 "number": 3,
@@ -90,9 +90,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 69. South wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 69. South wind around 7 mph."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 87,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_sct,30?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers before 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 87. Southwest wind 8 to 12 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/tsra_sct,40?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog between 7am and 8am, then patchy fog and a slight chance of rain showers between 8am and 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 87. Southwest wind 6 to 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 5,
@@ -115,14 +115,14 @@
                 "startTime": "2021-08-30T18:00:00-04:00",
                 "endTime": "2021-08-31T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 69,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/bkn?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
-                "detailedForecast": "A chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 69. West wind 6 to 10 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before midnight. Partly cloudy, with a low around 68. West wind 6 to 10 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 6,
@@ -148,11 +148,11 @@
                 "temperature": 67,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "NW",
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 67. Northwest wind 5 to 8 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 67. West wind 3 to 8 mph."
             },
             {
                 "number": 8,
@@ -160,14 +160,14 @@
                 "startTime": "2021-09-01T06:00:00-04:00",
                 "endTime": "2021-09-01T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 78,
+                "temperature": 79,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,50?size=medium",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,50?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 9am. Mostly cloudy, with a high near 78. West wind around 6 mph. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of rain showers after 8am. Mostly cloudy, with a high near 79. Northwest wind around 6 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 9,
@@ -179,10 +179,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
-                "windDirection": "E",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 63. East wind around 6 mph. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 63. Northeast wind around 6 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 10,
@@ -190,14 +190,14 @@
                 "startTime": "2021-09-02T06:00:00-04:00",
                 "endTime": "2021-09-02T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 1pm. Partly sunny, with a high near 76. North wind around 8 mph. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 73. North wind 7 to 10 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 11,
@@ -205,14 +205,14 @@
                 "startTime": "2021-09-02T18:00:00-04:00",
                 "endTime": "2021-09-03T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 59,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. North wind around 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 58. North wind around 7 mph."
             },
             {
                 "number": 12,
@@ -223,11 +223,11 @@
                 "temperature": 76,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 76. North wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 76. North wind around 8 mph."
             },
             {
                 "number": 13,
@@ -235,14 +235,14 @@
                 "startTime": "2021-09-03T18:00:00-04:00",
                 "endTime": "2021-09-04T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 60. North wind around 6 mph."
+                "detailedForecast": "Partly cloudy, with a low around 59. North wind around 6 mph."
             },
             {
                 "number": 14,
@@ -250,14 +250,14 @@
                 "startTime": "2021-09-04T06:00:00-04:00",
                 "endTime": "2021-09-04T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 77,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers/sct?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain showers between 8am and 11am. Mostly sunny, with a high near 76. Northeast wind 3 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 6 mph."
             }
         ]
     }
