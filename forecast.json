@@ -41,7 +41,7 @@
         "updated": "2021-09-02T13:47:54+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-02T14:20:29+00:00",
+        "generatedAt": "2021-09-02T16:36:57+00:00",
         "updateTime": "2021-09-02T13:47:54+00:00",
         "validTimes": "2021-09-02T07:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-09-02T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-09-02T12:00:00-04:00",
                 "endTime": "2021-09-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 14 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 68. North wind 8 to 14 mph, with gusts as high as 26 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 68. North wind 8 to 13 mph, with gusts as high as 26 mph."
             },
             {
                 "number": 2,
