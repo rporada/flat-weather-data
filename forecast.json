@@ -41,7 +41,7 @@
         "updated": "2021-09-05T10:46:08+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-05T12:34:59+00:00",
+        "generatedAt": "2021-09-05T18:25:27+00:00",
         "updateTime": "2021-09-05T10:46:08+00:00",
         "validTimes": "2021-09-05T04:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-09-05T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-09-05T14:00:00-04:00",
                 "endTime": "2021-09-05T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,30?size=medium",
-                "shortForecast": "Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 3pm. Cloudy, with a high near 74. South wind 2 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 3pm. Cloudy, with a high near 74. South wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
