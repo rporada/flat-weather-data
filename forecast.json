@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-06T14:27:30+00:00",
+        "updated": "2021-09-06T17:21:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-06T16:36:24+00:00",
-        "updateTime": "2021-09-06T14:27:30+00:00",
-        "validTimes": "2021-09-06T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-06T18:25:51+00:00",
+        "updateTime": "2021-09-06T17:21:02+00:00",
+        "validTimes": "2021-09-06T11:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Labor Day",
-                "startTime": "2021-09-06T12:00:00-04:00",
+                "startTime": "2021-09-06T14:00:00-04:00",
                 "endTime": "2021-09-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms after 4pm. Sunny, with a high near 83. West wind 8 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of showers and thunderstorms after 4pm. Sunny, with a high near 83. West wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-                "detailedForecast": "A slight chance of rain showers before 7pm. Mostly clear, with a low around 58. West wind 5 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 58. West wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
@@ -100,14 +100,14 @@
                 "startTime": "2021-09-07T18:00:00-04:00",
                 "endTime": "2021-09-08T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 62,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 62. Southwest wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 61. Southwest wind around 6 mph."
             },
             {
                 "number": 5,
