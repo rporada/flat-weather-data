@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-06T10:45:21+00:00",
+        "updated": "2021-09-06T14:27:30+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-06T14:20:29+00:00",
-        "updateTime": "2021-09-06T10:45:21+00:00",
-        "validTimes": "2021-09-06T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-06T16:36:24+00:00",
+        "updateTime": "2021-09-06T14:27:30+00:00",
+        "validTimes": "2021-09-06T08:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Labor Day",
-                "startTime": "2021-09-06T10:00:00-04:00",
+                "startTime": "2021-09-06T12:00:00-04:00",
                 "endTime": "2021-09-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 4pm. Partly sunny, with a high near 83. West wind 7 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms after 4pm. Sunny, with a high near 83. West wind 8 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
