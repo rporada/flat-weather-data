@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-07T10:11:30+00:00",
+        "updated": "2021-09-07T13:26:41+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-07T10:25:00+00:00",
-        "updateTime": "2021-09-07T10:11:30+00:00",
-        "validTimes": "2021-09-07T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-07T14:20:12+00:00",
+        "updateTime": "2021-09-07T13:26:41+00:00",
+        "validTimes": "2021-09-07T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-07T06:00:00-04:00",
+                "startTime": "2021-09-07T10:00:00-04:00",
                 "endTime": "2021-09-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
