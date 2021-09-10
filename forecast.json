@@ -41,7 +41,7 @@
         "updated": "2021-09-10T07:23:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-10T14:20:09+00:00",
+        "generatedAt": "2021-09-10T16:34:11+00:00",
         "updateTime": "2021-09-10T07:23:02+00:00",
         "validTimes": "2021-09-10T01:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-09-10T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-09-10T12:00:00-04:00",
                 "endTime": "2021-09-10T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 76. Northwest wind 8 to 12 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 76. Northwest wind around 12 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
