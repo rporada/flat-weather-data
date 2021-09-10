@@ -41,7 +41,7 @@
         "updated": "2021-09-10T07:23:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-10T08:25:19+00:00",
+        "generatedAt": "2021-09-10T10:24:53+00:00",
         "updateTime": "2021-09-10T07:23:02+00:00",
         "validTimes": "2021-09-10T01:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,22 +51,7 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2021-09-10T04:00:00-04:00",
-                "endTime": "2021-09-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5am. Cloudy, with a low around 63. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2021-09-10T06:00:00-04:00",
                 "endTime": "2021-09-10T18:00:00-04:00",
                 "isDaytime": true,
@@ -80,8 +65,8 @@
                 "detailedForecast": "A slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 76. Northwest wind 3 to 12 mph. Chance of precipitation is 20%."
             },
             {
-                "number": 3,
-                "name": "Friday Night",
+                "number": 2,
+                "name": "Tonight",
                 "startTime": "2021-09-10T18:00:00-04:00",
                 "endTime": "2021-09-11T06:00:00-04:00",
                 "isDaytime": false,
@@ -95,7 +80,7 @@
                 "detailedForecast": "Mostly clear, with a low around 52. Northwest wind 6 to 10 mph."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Saturday",
                 "startTime": "2021-09-11T06:00:00-04:00",
                 "endTime": "2021-09-11T18:00:00-04:00",
@@ -110,7 +95,7 @@
                 "detailedForecast": "Sunny, with a high near 76. West wind 5 to 9 mph."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Saturday Night",
                 "startTime": "2021-09-11T18:00:00-04:00",
                 "endTime": "2021-09-12T06:00:00-04:00",
@@ -125,7 +110,7 @@
                 "detailedForecast": "Mostly clear, with a low around 60. Southwest wind 7 to 10 mph."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Sunday",
                 "startTime": "2021-09-12T06:00:00-04:00",
                 "endTime": "2021-09-12T18:00:00-04:00",
@@ -140,7 +125,7 @@
                 "detailedForecast": "Sunny, with a high near 84. Southwest wind 10 to 14 mph."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Sunday Night",
                 "startTime": "2021-09-12T18:00:00-04:00",
                 "endTime": "2021-09-13T06:00:00-04:00",
@@ -150,12 +135,12 @@
                 "temperatureTrend": null,
                 "windSpeed": "6 to 12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,20?size=medium",
                 "shortForecast": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers between 1am and 2am, then a slight chance of showers and thunderstorms. Partly cloudy, with a low around 67. Southwest wind 6 to 12 mph."
+                "detailedForecast": "A slight chance of rain showers between 1am and 2am, then a slight chance of showers and thunderstorms. Partly cloudy, with a low around 67. Southwest wind 6 to 12 mph. Chance of precipitation is 20%."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Monday",
                 "startTime": "2021-09-13T06:00:00-04:00",
                 "endTime": "2021-09-13T18:00:00-04:00",
@@ -170,7 +155,7 @@
                 "detailedForecast": "A slight chance of rain showers before 5pm. Partly sunny, with a high near 78. Northwest wind around 7 mph."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Monday Night",
                 "startTime": "2021-09-13T18:00:00-04:00",
                 "endTime": "2021-09-14T06:00:00-04:00",
@@ -185,7 +170,7 @@
                 "detailedForecast": "Partly cloudy, with a low around 60. Northwest wind around 6 mph."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Tuesday",
                 "startTime": "2021-09-14T06:00:00-04:00",
                 "endTime": "2021-09-14T18:00:00-04:00",
@@ -200,7 +185,7 @@
                 "detailedForecast": "A chance of rain showers after 1pm. Mostly sunny, with a high near 75. Northeast wind 3 to 8 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Tuesday Night",
                 "startTime": "2021-09-14T18:00:00-04:00",
                 "endTime": "2021-09-15T06:00:00-04:00",
@@ -215,7 +200,7 @@
                 "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 63. Southeast wind around 7 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Wednesday",
                 "startTime": "2021-09-15T06:00:00-04:00",
                 "endTime": "2021-09-15T18:00:00-04:00",
@@ -230,7 +215,7 @@
                 "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 79. South wind 6 to 12 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Wednesday Night",
                 "startTime": "2021-09-15T18:00:00-04:00",
                 "endTime": "2021-09-16T06:00:00-04:00",
@@ -245,7 +230,7 @@
                 "detailedForecast": "A chance of showers and thunderstorms before 1am. Mostly cloudy, with a low around 66. Southwest wind 6 to 10 mph. Chance of precipitation is 50%."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Thursday",
                 "startTime": "2021-09-16T06:00:00-04:00",
                 "endTime": "2021-09-16T18:00:00-04:00",
@@ -258,6 +243,21 @@
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi/tsra_hi,30?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
                 "detailedForecast": "A chance of showers and thunderstorms between 7am and 5pm. Mostly sunny, with a high near 80. Southwest wind around 7 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 14,
+                "name": "Thursday Night",
+                "startTime": "2021-09-16T18:00:00-04:00",
+                "endTime": "2021-09-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 63. Southwest wind 2 to 6 mph."
             }
         ]
     }
