@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-10T07:23:02+00:00",
+        "updated": "2021-09-10T16:41:33+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-10T16:34:11+00:00",
-        "updateTime": "2021-09-10T07:23:02+00:00",
-        "validTimes": "2021-09-10T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-10T18:26:05+00:00",
+        "updateTime": "2021-09-10T16:41:33+00:00",
+        "validTimes": "2021-09-10T10:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-09-10T12:00:00-04:00",
+                "startTime": "2021-09-10T14:00:00-04:00",
                 "endTime": "2021-09-10T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 75,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "12 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 76. Northwest wind around 12 mph. Chance of precipitation is 20%."
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers before 5pm. Mostly sunny, with a high near 75. Northwest wind around 12 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-09-10T18:00:00-04:00",
                 "endTime": "2021-09-11T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Northwest wind 6 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 53. Northwest wind 6 to 10 mph."
             },
             {
                 "number": 3,
@@ -100,14 +100,14 @@
                 "startTime": "2021-09-11T18:00:00-04:00",
                 "endTime": "2021-09-12T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. Southwest wind 7 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 62. Southwest wind 6 to 9 mph."
             },
             {
                 "number": 5,
@@ -118,11 +118,11 @@
                 "temperature": 84,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "9 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 84. Southwest wind 10 to 14 mph."
+                "detailedForecast": "Sunny, with a high near 84. Southwest wind 9 to 14 mph."
             },
             {
                 "number": 6,
