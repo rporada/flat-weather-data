@@ -41,7 +41,7 @@
         "updated": "2021-09-16T13:33:04+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-16T14:21:26+00:00",
+        "generatedAt": "2021-09-16T16:34:18+00:00",
         "updateTime": "2021-09-16T13:33:04+00:00",
         "validTimes": "2021-09-16T07:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-09-16T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-09-16T12:00:00-04:00",
                 "endTime": "2021-09-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 69. Northeast wind 3 to 8 mph."
+                "detailedForecast": "Cloudy, with a high near 69. Northeast wind around 8 mph."
             },
             {
                 "number": 2,
