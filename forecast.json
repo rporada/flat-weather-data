@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-16T22:52:56+00:00",
+        "updated": "2021-09-17T01:39:32+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-17T01:19:18+00:00",
-        "updateTime": "2021-09-16T22:52:56+00:00",
-        "validTimes": "2021-09-16T16:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-17T02:34:31+00:00",
+        "updateTime": "2021-09-17T01:39:32+00:00",
+        "validTimes": "2021-09-16T19:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-09-16T21:00:00-04:00",
+                "startTime": "2021-09-16T22:00:00-04:00",
                 "endTime": "2021-09-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -62,7 +62,7 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Patchy Fog",
-                "detailedForecast": "A slight chance of rain showers between 10pm and 11pm, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 62. Northeast wind around 5 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers before 11pm, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 62. Northeast wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
