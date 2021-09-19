@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-19T05:18:12+00:00",
+        "updated": "2021-09-19T07:01:08+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-19T06:25:43+00:00",
-        "updateTime": "2021-09-19T05:18:12+00:00",
-        "validTimes": "2021-09-18T23:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-19T08:24:18+00:00",
+        "updateTime": "2021-09-19T07:01:08+00:00",
+        "validTimes": "2021-09-19T01:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-09-19T02:00:00-04:00",
+                "startTime": "2021-09-19T04:00:00-04:00",
                 "endTime": "2021-09-19T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -100,14 +100,14 @@
                 "startTime": "2021-09-20T06:00:00-04:00",
                 "endTime": "2021-09-20T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 72,
+                "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 72. Northeast wind 2 to 7 mph."
+                "detailedForecast": "Sunny, with a high near 73. Northeast wind 2 to 7 mph."
             },
             {
                 "number": 5,
@@ -120,9 +120,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 54. Southeast wind 2 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
+                "shortForecast": "Mostly Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 54. Southeast wind 2 to 7 mph."
             },
             {
                 "number": 6,
@@ -135,9 +135,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "2 to 9 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 73. Southeast wind 2 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 9am. Sunny, with a high near 73. Southeast wind 2 to 9 mph."
             },
             {
                 "number": 7,
@@ -148,11 +148,11 @@
                 "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. Southeast wind 2 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after midnight. Partly cloudy, with a low around 59. Southeast wind 3 to 8 mph."
             },
             {
                 "number": 8,
@@ -163,11 +163,11 @@
                 "temperature": 76,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "3 to 10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 76. Southeast wind 2 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 76. Southeast wind 3 to 10 mph."
             },
             {
                 "number": 9,
@@ -178,11 +178,11 @@
                 "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 1am. Partly cloudy, with a low around 64. Southeast wind 5 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 7pm and 1am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 64. Southeast wind 6 to 9 mph."
             },
             {
                 "number": 10,
@@ -193,11 +193,11 @@
                 "temperature": 77,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 77. Southeast wind 5 to 9 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers and patchy fog. Partly sunny, with a high near 77. Southeast wind 6 to 12 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 11,
@@ -208,11 +208,11 @@
                 "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 63. South wind around 8 mph. Chance of precipitation is 30%."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 63. Southeast wind 6 to 10 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 12,
@@ -224,10 +224,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 to 9 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 72. South wind 6 to 9 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 72. Southeast wind 6 to 9 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 13,
@@ -239,10 +239,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "5 to 8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5am. Partly cloudy, with a low around 59. Southwest wind 5 to 8 mph. Chance of precipitation is 30%."
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 59. South wind 5 to 8 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 14,
