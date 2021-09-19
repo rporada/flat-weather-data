@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-19T14:34:28+00:00",
+        "updated": "2021-09-19T17:30:37+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-19T16:33:11+00:00",
-        "updateTime": "2021-09-19T14:34:28+00:00",
-        "validTimes": "2021-09-19T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-19T18:25:17+00:00",
+        "updateTime": "2021-09-19T17:30:37+00:00",
+        "validTimes": "2021-09-19T11:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-09-19T12:00:00-04:00",
+                "startTime": "2021-09-19T14:00:00-04:00",
                 "endTime": "2021-09-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
@@ -70,14 +70,14 @@
                 "startTime": "2021-09-19T18:00:00-04:00",
                 "endTime": "2021-09-20T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "1 to 5 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Southwest wind 1 to 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 51. Southwest wind 1 to 5 mph."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2021-09-20T06:00:00-04:00",
                 "endTime": "2021-09-20T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 73,
+                "temperature": 74,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "1 to 8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 73. Northeast wind 2 to 7 mph."
+                "detailedForecast": "Sunny, with a high near 74. Northeast wind 1 to 8 mph."
             },
             {
                 "number": 4,
@@ -100,14 +100,14 @@
                 "startTime": "2021-09-20T18:00:00-04:00",
                 "endTime": "2021-09-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 54,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "2 to 8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
                 "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 54. Southeast wind 2 to 7 mph."
+                "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 53. Southeast wind 2 to 8 mph."
             },
             {
                 "number": 5,
@@ -130,14 +130,14 @@
                 "startTime": "2021-09-21T18:00:00-04:00",
                 "endTime": "2021-09-22T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 59,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 to 8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after midnight. Partly cloudy, with a low around 59. Southeast wind 3 to 8 mph."
+                "detailedForecast": "Patchy fog after midnight. Partly cloudy, with a low around 60. Southeast wind 3 to 8 mph."
             },
             {
                 "number": 7,
@@ -152,7 +152,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 76. Southeast wind 3 to 10 mph."
+                "detailedForecast": "Patchy fog before 8am. Partly sunny, with a high near 76. Southeast wind 3 to 10 mph."
             },
             {
                 "number": 8,
