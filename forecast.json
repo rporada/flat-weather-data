@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-20T22:33:32+00:00",
+        "updated": "2021-09-21T01:37:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-21T01:13:16+00:00",
-        "updateTime": "2021-09-20T22:33:32+00:00",
-        "validTimes": "2021-09-20T16:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-21T02:32:32+00:00",
+        "updateTime": "2021-09-21T01:37:02+00:00",
+        "validTimes": "2021-09-20T19:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-09-20T21:00:00-04:00",
+                "startTime": "2021-09-20T22:00:00-04:00",
                 "endTime": "2021-09-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Southeast wind around 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 53. Southeast wind around 3 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "1 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog between 8am and 9am. Mostly sunny, with a high near 73. Southeast wind 2 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 73. Southeast wind 1 to 7 mph."
             },
             {
                 "number": 3,
