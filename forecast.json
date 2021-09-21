@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-21T11:05:08+00:00",
+        "updated": "2021-09-21T13:53:40+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-21T12:35:36+00:00",
-        "updateTime": "2021-09-21T11:05:08+00:00",
-        "validTimes": "2021-09-21T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-21T14:20:05+00:00",
+        "updateTime": "2021-09-21T13:53:40+00:00",
+        "validTimes": "2021-09-21T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-21T08:00:00-04:00",
+                "startTime": "2021-09-21T10:00:00-04:00",
                 "endTime": "2021-09-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 73. Southeast wind 1 to 8 mph."
+                "detailedForecast": "Partly sunny, with a high near 73. Southeast wind 5 to 8 mph."
             },
             {
                 "number": 2,
