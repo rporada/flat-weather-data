@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-22T13:59:40+00:00",
+        "updated": "2021-09-22T16:26:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-22T14:20:13+00:00",
-        "updateTime": "2021-09-22T13:59:40+00:00",
-        "validTimes": "2021-09-22T07:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-22T16:35:19+00:00",
+        "updateTime": "2021-09-22T16:26:02+00:00",
+        "validTimes": "2021-09-22T10:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-09-22T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-09-22T12:00:00-04:00",
                 "endTime": "2021-09-22T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5pm. Cloudy, with a high near 78. South wind around 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 78. South wind around 10 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between midnight and 5am. Mostly cloudy, with a low around 66. Southeast wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/fog?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A slight chance of rain showers before 7pm, then patchy fog between midnight and 5am. Mostly cloudy, with a low around 66. Southeast wind around 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
