@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-24T09:41:32+00:00",
+        "updated": "2021-09-24T13:45:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-24T12:35:08+00:00",
-        "updateTime": "2021-09-24T09:41:32+00:00",
-        "validTimes": "2021-09-24T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-24T14:20:11+00:00",
+        "updateTime": "2021-09-24T13:45:17+00:00",
+        "validTimes": "2021-09-24T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-24T08:00:00-04:00",
+                "startTime": "2021-09-24T10:00:00-04:00",
                 "endTime": "2021-09-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra,90?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before 10am, then a chance of rain showers and patchy fog between 10am and 1pm, then showers and thunderstorms. Cloudy, with a high near 78. South wind 7 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,40/tsra,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely. Cloudy, with a high near 78. South wind 7 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-09-24T18:00:00-04:00",
                 "endTime": "2021-09-25T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 61,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "SW",
+                "windSpeed": "6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,50?size=medium",
                 "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely before 3am, then a chance of rain showers and patchy fog. Cloudy, with a low around 61. Southwest wind 2 to 6 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Showers and thunderstorms likely before 3am, then a chance of rain showers and patchy fog. Cloudy, with a low around 62. West wind around 6 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 3,
