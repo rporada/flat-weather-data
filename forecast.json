@@ -41,7 +41,7 @@
         "updated": "2021-09-25T14:17:42+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-25T16:33:32+00:00",
+        "generatedAt": "2021-09-25T18:25:07+00:00",
         "updateTime": "2021-09-25T14:17:42+00:00",
         "validTimes": "2021-09-25T08:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-09-25T12:00:00-04:00",
+                "startTime": "2021-09-25T14:00:00-04:00",
                 "endTime": "2021-09-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
@@ -62,7 +62,7 @@
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 1pm. Mostly cloudy, with a high near 73. East wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 73. East wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
