@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-24T23:55:03+00:00",
+        "updated": "2021-09-25T02:18:23+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-25T01:10:46+00:00",
-        "updateTime": "2021-09-24T23:55:03+00:00",
-        "validTimes": "2021-09-24T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-25T02:33:47+00:00",
+        "updateTime": "2021-09-25T02:18:23+00:00",
+        "validTimes": "2021-09-24T20:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-09-24T21:00:00-04:00",
+                "startTime": "2021-09-24T22:00:00-04:00",
                 "endTime": "2021-09-25T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 60. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 61. Northwest wind around 2 mph."
             },
             {
                 "number": 2,
@@ -75,7 +75,7 @@
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers after 10am. Mostly cloudy, with a high near 71. Northeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
