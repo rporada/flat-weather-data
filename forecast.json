@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-28T07:24:42+00:00",
+        "updated": "2021-09-28T12:01:49+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-28T10:24:57+00:00",
-        "updateTime": "2021-09-28T07:24:42+00:00",
-        "validTimes": "2021-09-28T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-28T12:36:07+00:00",
+        "updateTime": "2021-09-28T12:01:49+00:00",
+        "validTimes": "2021-09-28T06:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-28T06:00:00-04:00",
+                "startTime": "2021-09-28T08:00:00-04:00",
                 "endTime": "2021-09-28T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
@@ -60,7 +60,7 @@
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,40?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
                 "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 73. Northwest wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
