@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-28T12:01:49+00:00",
+        "updated": "2021-09-28T13:39:03+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-28T12:36:07+00:00",
-        "updateTime": "2021-09-28T12:01:49+00:00",
-        "validTimes": "2021-09-28T06:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-28T14:20:19+00:00",
+        "updateTime": "2021-09-28T13:39:03+00:00",
+        "validTimes": "2021-09-28T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-28T08:00:00-04:00",
+                "startTime": "2021-09-28T10:00:00-04:00",
                 "endTime": "2021-09-28T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
                 "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "temperatureTrend": "falling",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,40?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 73. Northwest wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,60?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely. Cloudy. High near 73, with temperatures falling to around 67 in the afternoon. Northwest wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 51. North wind 3 to 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,40/bkn?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 51. North wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
