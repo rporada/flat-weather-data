@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-29T11:01:07+00:00",
+        "updated": "2021-09-29T13:32:35+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-29T12:35:20+00:00",
-        "updateTime": "2021-09-29T11:01:07+00:00",
-        "validTimes": "2021-09-29T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-29T14:20:40+00:00",
+        "updateTime": "2021-09-29T13:32:35+00:00",
+        "validTimes": "2021-09-29T07:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-09-29T08:00:00-04:00",
+                "startTime": "2021-09-29T10:00:00-04:00",
                 "endTime": "2021-09-29T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 65,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. North wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 65. North wind 6 to 9 mph."
             },
             {
                 "number": 2,
@@ -74,10 +74,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 48. Northwest wind around 6 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 48. North wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
