@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-09-29T19:55:36+00:00",
+        "updated": "2021-09-29T22:46:15+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-09-29T22:22:04+00:00",
-        "updateTime": "2021-09-29T19:55:36+00:00",
-        "validTimes": "2021-09-29T13:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-09-30T01:19:16+00:00",
+        "updateTime": "2021-09-29T22:46:15+00:00",
+        "validTimes": "2021-09-29T16:00:00+00:00/P8DT6H",
         "elevation": {
             "value": 10.058400000000001,
             "unitCode": "unit:m"
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-09-29T18:00:00-04:00",
+                "startTime": "2021-09-29T21:00:00-04:00",
                 "endTime": "2021-09-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 2am. Mostly cloudy, with a low around 48. Northwest wind 5 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers after 2am. Mostly cloudy, with a low around 48. Northwest wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
