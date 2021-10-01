@@ -38,21 +38,21 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-01T07:29:02+00:00",
+        "updated": "2021-10-01T11:00:47+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-01T10:25:11+00:00",
-        "updateTime": "2021-10-01T07:29:02+00:00",
-        "validTimes": "2021-10-01T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-01T12:40:09+00:00",
+        "updateTime": "2021-10-01T11:00:47+00:00",
+        "validTimes": "2021-10-01T04:00:00+00:00/P8DT6H",
         "elevation": {
-            "value": 10.058400000000001,
-            "unitCode": "unit:m"
+            "unitCode": "wmoUnit:m",
+            "value": 10.058400000000001
         },
         "periods": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-01T06:00:00-04:00",
+                "startTime": "2021-10-01T08:00:00-04:00",
                 "endTime": "2021-10-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 67,
