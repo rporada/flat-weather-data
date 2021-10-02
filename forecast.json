@@ -41,28 +41,28 @@
         "updated": "2021-10-02T11:17:13+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-02T14:19:46+00:00",
+        "generatedAt": "2021-10-02T12:34:30+00:00",
         "updateTime": "2021-10-02T11:17:13+00:00",
         "validTimes": "2021-10-02T05:00:00+00:00/P8DT6H",
         "elevation": {
-            "value": 10.058400000000001,
-            "unitCode": "unit:m"
+            "unitCode": "wmoUnit:m",
+            "value": 10.058400000000001
         },
         "periods": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-02T10:00:00-04:00",
+                "startTime": "2021-10-02T08:00:00-04:00",
                 "endTime": "2021-10-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 2pm. Partly sunny, with a high near 73. West wind around 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers between 9am and 2pm. Partly sunny, with a high near 73. West wind 5 to 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
