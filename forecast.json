@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-06T01:52:43+00:00",
+        "updated": "2021-10-06T04:20:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-06T02:33:26+00:00",
-        "updateTime": "2021-10-06T01:52:43+00:00",
-        "validTimes": "2021-10-05T19:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-06T04:29:04+00:00",
+        "updateTime": "2021-10-06T04:20:56+00:00",
+        "validTimes": "2021-10-05T22:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-10-05T22:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2021-10-06T00:00:00-04:00",
                 "endTime": "2021-10-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. Northwest wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog before 4am. Mostly cloudy, with a low around 50. Northwest wind around 3 mph."
             },
             {
                 "number": 2,
