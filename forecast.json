@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-09T10:40:53+00:00",
+        "updated": "2021-10-09T13:32:54+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-09T12:33:49+00:00",
-        "updateTime": "2021-10-09T10:40:53+00:00",
-        "validTimes": "2021-10-09T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-09T14:19:29+00:00",
+        "updateTime": "2021-10-09T13:32:54+00:00",
+        "validTimes": "2021-10-09T07:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-09T08:00:00-04:00",
+                "startTime": "2021-10-09T10:00:00-04:00",
                 "endTime": "2021-10-09T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle. Cloudy, with a high near 62. East wind 6 to 10 mph."
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Cloudy, with a high near 62. East wind around 12 mph."
             },
             {
                 "number": 2,
