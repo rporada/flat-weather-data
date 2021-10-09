@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-09T07:47:03+00:00",
+        "updated": "2021-10-09T10:40:53+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-09T10:24:17+00:00",
-        "updateTime": "2021-10-09T07:47:03+00:00",
-        "validTimes": "2021-10-09T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-09T12:33:49+00:00",
+        "updateTime": "2021-10-09T10:40:53+00:00",
+        "validTimes": "2021-10-09T04:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-09T06:00:00-04:00",
+                "startTime": "2021-10-09T08:00:00-04:00",
                 "endTime": "2021-10-09T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 61,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Cloudy",
-                "detailedForecast": "Patchy drizzle before 11am. Mostly cloudy, with a high near 61. East wind 5 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Cloudy, with a high near 62. East wind 6 to 10 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 55. East wind 3 to 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 55. East wind 3 to 8 mph."
             },
             {
                 "number": 3,
