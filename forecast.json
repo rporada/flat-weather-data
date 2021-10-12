@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-11T19:10:39+00:00",
+        "updated": "2021-10-11T23:17:49+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-11T22:22:13+00:00",
-        "updateTime": "2021-10-11T19:10:39+00:00",
-        "validTimes": "2021-10-11T13:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-12T01:17:36+00:00",
+        "updateTime": "2021-10-11T23:17:49+00:00",
+        "validTimes": "2021-10-11T17:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-11T18:00:00-04:00",
+                "startTime": "2021-10-11T21:00:00-04:00",
                 "endTime": "2021-10-12T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 54,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Mostly cloudy, with a low around 54. East wind 1 to 6 mph."
+                "windSpeed": "2 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog after 11pm. Mostly cloudy, with a low around 55. Southeast wind around 2 mph."
             },
             {
                 "number": 2,
