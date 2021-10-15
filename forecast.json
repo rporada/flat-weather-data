@@ -41,7 +41,7 @@
         "updated": "2021-10-15T01:37:52+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-15T02:34:32+00:00",
+        "generatedAt": "2021-10-15T04:29:59+00:00",
         "updateTime": "2021-10-15T01:37:52+00:00",
         "validTimes": "2021-10-14T19:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-10-14T22:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2021-10-15T00:00:00-04:00",
                 "endTime": "2021-10-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
