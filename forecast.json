@@ -41,7 +41,7 @@
         "updated": "2021-10-15T10:32:21+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-15T12:35:49+00:00",
+        "generatedAt": "2021-10-15T16:35:58+00:00",
         "updateTime": "2021-10-15T10:32:21+00:00",
         "validTimes": "2021-10-15T04:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-10-15T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-10-15T12:00:00-04:00",
                 "endTime": "2021-10-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before 9am. Mostly cloudy, with a high near 73. Southeast wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 73. Southeast wind around 6 mph."
             },
             {
                 "number": 2,
