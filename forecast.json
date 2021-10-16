@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-16T00:00:18+00:00",
+        "updated": "2021-10-16T01:23:24+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-16T01:20:11+00:00",
-        "updateTime": "2021-10-16T00:00:18+00:00",
-        "validTimes": "2021-10-15T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-16T02:39:13+00:00",
+        "updateTime": "2021-10-16T01:23:24+00:00",
+        "validTimes": "2021-10-15T19:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-15T21:00:00-04:00",
+                "startTime": "2021-10-15T22:00:00-04:00",
                 "endTime": "2021-10-16T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 63,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 63. South wind around 7 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 1am. Cloudy, with a low around 62. South wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
