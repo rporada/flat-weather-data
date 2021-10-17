@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-16T23:17:08+00:00",
+        "updated": "2021-10-17T02:01:38+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-17T01:14:15+00:00",
-        "updateTime": "2021-10-16T23:17:08+00:00",
-        "validTimes": "2021-10-16T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-17T02:33:51+00:00",
+        "updateTime": "2021-10-17T02:01:38+00:00",
+        "validTimes": "2021-10-16T19:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-16T21:00:00-04:00",
+                "startTime": "2021-10-16T22:00:00-04:00",
                 "endTime": "2021-10-17T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 56,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,100?size=medium",
-                "shortForecast": "Slight Chance T-storms",
-                "detailedForecast": "Rain showers likely before 11pm, then a slight chance of thunderstorms between 11pm and 5am, then a slight chance of rain showers. Cloudy, with a low around 56. West wind 6 to 12 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 55. West wind 6 to 10 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
