@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-17T07:40:45+00:00",
+        "updated": "2021-10-17T11:05:12+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-17T10:24:27+00:00",
-        "updateTime": "2021-10-17T07:40:45+00:00",
-        "validTimes": "2021-10-17T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-17T12:34:00+00:00",
+        "updateTime": "2021-10-17T11:05:12+00:00",
+        "validTimes": "2021-10-17T05:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-17T06:00:00-04:00",
+                "startTime": "2021-10-17T08:00:00-04:00",
                 "endTime": "2021-10-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny, with a high near 66. Northwest wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny, with a high near 66. Northwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
