@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-18T07:36:54+00:00",
+        "updated": "2021-10-18T12:58:32+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-18T12:36:08+00:00",
-        "updateTime": "2021-10-18T07:36:54+00:00",
-        "validTimes": "2021-10-18T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-18T14:20:52+00:00",
+        "updateTime": "2021-10-18T12:58:32+00:00",
+        "validTimes": "2021-10-18T06:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-10-18T08:00:00-04:00",
+                "startTime": "2021-10-18T10:00:00-04:00",
                 "endTime": "2021-10-18T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 13 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60. Northwest wind 8 to 13 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Mostly sunny, with a high near 59. Northwest wind around 13 mph, with gusts as high as 24 mph."
             },
             {
                 "number": 2,
