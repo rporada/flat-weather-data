@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-17T23:17:31+00:00",
+        "updated": "2021-10-18T01:29:08+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-18T01:17:47+00:00",
-        "updateTime": "2021-10-17T23:17:31+00:00",
-        "validTimes": "2021-10-17T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-18T02:37:26+00:00",
+        "updateTime": "2021-10-18T01:29:08+00:00",
+        "validTimes": "2021-10-17T19:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-17T21:00:00-04:00",
+                "startTime": "2021-10-17T22:00:00-04:00",
                 "endTime": "2021-10-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
