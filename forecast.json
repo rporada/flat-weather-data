@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-10-19T23:51:55+00:00",
+        "updated": "2021-10-20T02:02:34+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-20T01:17:32+00:00",
-        "updateTime": "2021-10-19T23:51:55+00:00",
-        "validTimes": "2021-10-19T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-10-20T02:35:46+00:00",
+        "updateTime": "2021-10-20T02:02:34+00:00",
+        "validTimes": "2021-10-19T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-19T21:00:00-04:00",
+                "startTime": "2021-10-19T22:00:00-04:00",
                 "endTime": "2021-10-20T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 51,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 51. West wind around 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 46. West wind around 7 mph."
             },
             {
                 "number": 2,
