@@ -41,7 +41,7 @@
         "updated": "2021-10-20T23:50:03+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-21T01:22:20+00:00",
+        "generatedAt": "2021-10-21T02:38:02+00:00",
         "updateTime": "2021-10-20T23:50:03+00:00",
         "validTimes": "2021-10-20T17:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-10-20T21:00:00-04:00",
+                "startTime": "2021-10-20T22:00:00-04:00",
                 "endTime": "2021-10-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 54. West wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. West wind around 7 mph."
             },
             {
                 "number": 2,
