@@ -41,7 +41,7 @@
         "updated": "2021-10-31T11:14:11+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-10-31T14:19:56+00:00",
+        "generatedAt": "2021-10-31T16:34:24+00:00",
         "updateTime": "2021-10-31T11:14:11+00:00",
         "validTimes": "2021-10-31T05:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-10-31T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-10-31T12:00:00-04:00",
                 "endTime": "2021-10-31T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "9 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 66. Southwest wind around 9 mph, with gusts as high as 21 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 66. Southwest wind around 9 mph, with gusts as high as 21 mph."
             },
             {
                 "number": 2,
