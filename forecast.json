@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-03T16:30:44+00:00",
+        "updated": "2021-11-03T19:32:53+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-03T18:26:50+00:00",
-        "updateTime": "2021-11-03T16:30:44+00:00",
-        "validTimes": "2021-11-03T10:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-03T20:23:41+00:00",
+        "updateTime": "2021-11-03T19:32:53+00:00",
+        "validTimes": "2021-11-03T13:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-11-03T14:00:00-04:00",
+                "startTime": "2021-11-03T16:00:00-04:00",
                 "endTime": "2021-11-03T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct,20?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 52. West wind around 7 mph."
+                "detailedForecast": "Mostly sunny, with a high near 52. Northwest wind around 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/few,20/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 33. Northwest wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 33. Northwest wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
-                "windDirection": "NE",
+                "windSpeed": "5 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. Northeast wind around 3 mph."
+                "detailedForecast": "Mostly sunny, with a high near 49. North wind around 5 mph."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
-                "windDirection": "W",
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 34. West wind around 5 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 34. North wind 2 to 6 mph."
             },
             {
                 "number": 5,
@@ -118,11 +118,11 @@
                 "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. Northwest wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 51. Northwest wind around 7 mph."
             },
             {
                 "number": 6,
@@ -160,14 +160,14 @@
                 "startTime": "2021-11-06T18:00:00-04:00",
                 "endTime": "2021-11-07T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 35. West wind around 5 mph."
+                "detailedForecast": "Partly cloudy, with a low around 36. West wind around 5 mph."
             },
             {
                 "number": 9,
@@ -250,14 +250,14 @@
                 "startTime": "2021-11-09T18:00:00-05:00",
                 "endTime": "2021-11-10T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 41,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 41. Southwest wind around 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 42. Southwest wind around 7 mph."
             }
         ]
     }
