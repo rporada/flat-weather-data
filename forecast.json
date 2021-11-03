@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-03T12:09:38+00:00",
+        "updated": "2021-11-03T16:10:41+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-03T12:36:17+00:00",
-        "updateTime": "2021-11-03T12:09:38+00:00",
-        "validTimes": "2021-11-03T06:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-03T16:36:42+00:00",
+        "updateTime": "2021-11-03T16:10:41+00:00",
+        "validTimes": "2021-11-03T10:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-03T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-03T12:00:00-04:00",
                 "endTime": "2021-11-03T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 51,
+                "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. West wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 52. West wind around 7 mph."
             },
             {
                 "number": 2,
