@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-03T21:58:52+00:00",
+        "updated": "2021-11-04T00:05:36+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-03T22:22:06+00:00",
-        "updateTime": "2021-11-03T21:58:52+00:00",
-        "validTimes": "2021-11-03T15:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-04T01:13:24+00:00",
+        "updateTime": "2021-11-04T00:05:36+00:00",
+        "validTimes": "2021-11-03T18:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-03T18:00:00-04:00",
+                "startTime": "2021-11-03T21:00:00-04:00",
                 "endTime": "2021-11-04T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. Northeast wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 49. Northeast wind around 3 mph."
             },
             {
                 "number": 3,
