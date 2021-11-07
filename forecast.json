@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-07T13:52:35+00:00",
+        "updated": "2021-11-07T14:32:29+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-07T14:20:08+00:00",
-        "updateTime": "2021-11-07T13:52:35+00:00",
-        "validTimes": "2021-11-07T07:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-07T16:34:16+00:00",
+        "updateTime": "2021-11-07T14:32:29+00:00",
+        "validTimes": "2021-11-07T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-11-07T09:00:00-05:00",
+                "startTime": "2021-11-07T11:00:00-05:00",
                 "endTime": "2021-11-07T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 55,
                 "temperatureUnit": "F",
-                "temperatureTrend": "falling",
+                "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 55, with temperatures falling to around 48 in the afternoon. South wind around 5 mph."
+                "detailedForecast": "Sunny, with a high near 55. South wind around 5 mph."
             },
             {
                 "number": 2,
