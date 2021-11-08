@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-08T09:07:49+00:00",
+        "updated": "2021-11-08T13:48:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-08T12:36:22+00:00",
-        "updateTime": "2021-11-08T09:07:49+00:00",
-        "validTimes": "2021-11-08T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-08T14:21:08+00:00",
+        "updateTime": "2021-11-08T13:48:02+00:00",
+        "validTimes": "2021-11-08T07:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-11-08T07:00:00-05:00",
+                "startTime": "2021-11-08T09:00:00-05:00",
                 "endTime": "2021-11-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "6 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 53 in the afternoon. North wind around 6 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 53 in the afternoon. North wind 2 to 7 mph."
             },
             {
                 "number": 2,
@@ -74,10 +74,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
-                "windDirection": "S",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 40. South wind around 3 mph."
+                "detailedForecast": "Clear, with a low around 40. West wind around 3 mph."
             },
             {
                 "number": 3,
