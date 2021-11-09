@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-09T14:43:16+00:00",
+        "updated": "2021-11-09T17:54:13+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-09T16:37:05+00:00",
-        "updateTime": "2021-11-09T14:43:16+00:00",
-        "validTimes": "2021-11-09T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-09T18:27:14+00:00",
+        "updateTime": "2021-11-09T17:54:13+00:00",
+        "validTimes": "2021-11-09T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-09T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-09T13:00:00-05:00",
                 "endTime": "2021-11-09T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 68,
+                "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
                 "windSpeed": "6 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 60 in the afternoon. Northwest wind around 6 mph."
+                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 59 in the afternoon. Northwest wind around 6 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-11-09T18:00:00-05:00",
                 "endTime": "2021-11-10T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 45. North wind around 3 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 46. North wind around 3 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "3 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 8am. Mostly sunny. High near 60, with temperatures falling to around 51 in the afternoon. Northwest wind 5 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers before 8am. Mostly sunny. High near 60, with temperatures falling to around 51 in the afternoon. Northwest wind 3 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 4,
