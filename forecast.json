@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-10T23:47:39+00:00",
+        "updated": "2021-11-11T02:42:54+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-11T02:35:16+00:00",
-        "updateTime": "2021-11-10T23:47:39+00:00",
-        "validTimes": "2021-11-10T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-11T04:30:29+00:00",
+        "updateTime": "2021-11-11T02:42:54+00:00",
+        "validTimes": "2021-11-10T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-10T21:00:00-05:00",
+                "startTime": "2021-11-10T23:00:00-05:00",
                 "endTime": "2021-11-11T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 36. Northwest wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 35. Northwest wind around 7 mph."
             },
             {
                 "number": 2,
