@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-12T02:31:00+00:00",
+        "updated": "2021-11-12T05:28:10+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-12T04:30:33+00:00",
-        "updateTime": "2021-11-12T02:31:00+00:00",
-        "validTimes": "2021-11-11T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-12T06:27:40+00:00",
+        "updateTime": "2021-11-12T05:28:10+00:00",
+        "validTimes": "2021-11-11T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-11-11T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-11-12T01:00:00-05:00",
                 "endTime": "2021-11-12T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 14 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5am. Mostly cloudy, with a low around 47. Southeast wind 8 to 14 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 47. Southeast wind around 15 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "14 to 18 mph",
+                "windSpeed": "15 to 22 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a high near 64. Southeast wind 14 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/tsra,100?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "A chance of rain showers before 10am, then rain showers likely and patchy fog between 10am and noon, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 64. Southeast wind 15 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 13 mph",
+                "windSpeed": "3 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/sct?size=medium",
-                "shortForecast": "Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A chance of rain showers before 10pm. Partly cloudy, with a low around 44. West wind 5 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,50/sct?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before 9pm. Partly cloudy, with a low around 44. West wind 3 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
