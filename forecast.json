@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-12T15:43:04+00:00",
+        "updated": "2021-11-12T17:31:46+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-12T16:35:50+00:00",
-        "updateTime": "2021-11-12T15:43:04+00:00",
-        "validTimes": "2021-11-12T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-12T18:26:32+00:00",
+        "updateTime": "2021-11-12T17:31:46+00:00",
+        "validTimes": "2021-11-12T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-12T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-12T13:00:00-05:00",
                 "endTime": "2021-11-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "16 to 22 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,90/tsra,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before noon, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 64. South wind 16 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 64. South wind 16 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 2,
