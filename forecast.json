@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-16T14:52:56+00:00",
+        "updated": "2021-11-16T17:45:51+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-16T16:30:18+00:00",
-        "updateTime": "2021-11-16T14:52:56+00:00",
-        "validTimes": "2021-11-16T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-16T18:24:15+00:00",
+        "updateTime": "2021-11-16T17:45:51+00:00",
+        "validTimes": "2021-11-16T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-16T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-16T13:00:00-05:00",
                 "endTime": "2021-11-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 48. West wind 10 to 14 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 48. West wind 9 to 13 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 2,
