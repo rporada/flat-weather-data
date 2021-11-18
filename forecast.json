@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-18T00:31:43+00:00",
+        "updated": "2021-11-18T02:35:36+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-18T02:35:19+00:00",
-        "updateTime": "2021-11-18T00:31:43+00:00",
-        "validTimes": "2021-11-17T18:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-18T04:30:28+00:00",
+        "updateTime": "2021-11-18T02:35:36+00:00",
+        "validTimes": "2021-11-17T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-17T21:00:00-05:00",
+                "startTime": "2021-11-17T23:00:00-05:00",
                 "endTime": "2021-11-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -60,9 +60,9 @@
                 "temperatureTrend": "rising",
                 "windSpeed": "6 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 44, with temperatures rising to around 50 overnight. South wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 44, with temperatures rising to around 52 overnight. South wind around 6 mph."
             },
             {
                 "number": 2,
