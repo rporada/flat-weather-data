@@ -41,7 +41,7 @@
         "updated": "2021-11-18T14:43:29+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-18T16:35:58+00:00",
+        "generatedAt": "2021-11-18T18:27:28+00:00",
         "updateTime": "2021-11-18T14:43:29+00:00",
         "validTimes": "2021-11-18T08:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-18T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-18T13:00:00-05:00",
                 "endTime": "2021-11-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 70,
