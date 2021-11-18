@@ -41,7 +41,7 @@
         "updated": "2021-11-18T02:35:36+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-18T06:26:45+00:00",
+        "generatedAt": "2021-11-18T08:27:08+00:00",
         "updateTime": "2021-11-18T02:35:36+00:00",
         "validTimes": "2021-11-17T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-11-18T01:00:00-05:00",
+                "startTime": "2021-11-18T03:00:00-05:00",
                 "endTime": "2021-11-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
                 "windSpeed": "6 mph",
-                "windDirection": "S",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 44, with temperatures rising to around 52 overnight. South wind around 6 mph."
+                "detailedForecast": "Cloudy. Low around 44, with temperatures rising to around 52 overnight. Southwest wind around 6 mph."
             },
             {
                 "number": 2,
