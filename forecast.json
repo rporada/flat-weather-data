@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-19T00:15:41+00:00",
+        "updated": "2021-11-19T02:19:24+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-19T01:12:48+00:00",
-        "updateTime": "2021-11-19T00:15:41+00:00",
-        "validTimes": "2021-11-18T18:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-19T02:36:30+00:00",
+        "updateTime": "2021-11-19T02:19:24+00:00",
+        "validTimes": "2021-11-18T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-18T20:00:00-05:00",
+                "startTime": "2021-11-18T21:00:00-05:00",
                 "endTime": "2021-11-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,100?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers after 10pm. Cloudy, with a low around 40. West wind around 9 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers after 11pm. Cloudy, with a low around 40. West wind around 9 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
