@@ -38,11 +38,11 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-22T20:11:12+00:00",
+        "updated": "2021-11-22T20:36:46+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-22T20:24:08+00:00",
-        "updateTime": "2021-11-22T20:11:12+00:00",
+        "generatedAt": "2021-11-22T22:23:17+00:00",
+        "updateTime": "2021-11-22T20:36:46+00:00",
         "validTimes": "2021-11-22T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-11-22T15:00:00-05:00",
+                "startTime": "2021-11-22T17:00:00-05:00",
                 "endTime": "2021-11-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -100,14 +100,14 @@
                 "startTime": "2021-11-23T18:00:00-05:00",
                 "endTime": "2021-11-24T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 22,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 10 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 24. Northwest wind around 10 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 5,
