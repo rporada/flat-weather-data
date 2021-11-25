@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-25T01:52:39+00:00",
+        "updated": "2021-11-25T05:10:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-25T04:31:21+00:00",
-        "updateTime": "2021-11-25T01:52:39+00:00",
-        "validTimes": "2021-11-24T19:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-25T06:27:49+00:00",
+        "updateTime": "2021-11-25T05:10:17+00:00",
+        "validTimes": "2021-11-24T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-11-24T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-11-25T01:00:00-05:00",
                 "endTime": "2021-11-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -73,11 +73,11 @@
                 "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 53, with temperatures falling to around 47 in the afternoon. West wind around 6 mph."
+                "detailedForecast": "Mostly sunny. High near 53, with temperatures falling to around 47 in the afternoon. West wind around 5 mph."
             },
             {
                 "number": 3,
@@ -90,9 +90,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 11pm. Mostly cloudy, with a low around 39. West wind around 5 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 1am. Mostly cloudy, with a low around 39. West wind around 5 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 4,
@@ -104,10 +104,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 to 12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a high near 46. West wind 3 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 46. Southwest wind 3 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 5,
@@ -120,9 +120,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/sct?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/sct?size=medium",
                 "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
-                "detailedForecast": "A slight chance of rain before 7pm, then a slight chance of snow between 7pm and 9pm. Partly cloudy, with a low around 29. West wind around 13 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A chance of rain showers before 8pm, then a slight chance of snow between 8pm and 9pm. Partly cloudy, with a low around 29. West wind around 13 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 6,
