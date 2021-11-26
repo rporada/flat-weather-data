@@ -41,7 +41,7 @@
         "updated": "2021-11-26T19:50:32+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-26T20:23:44+00:00",
+        "generatedAt": "2021-11-26T22:23:00+00:00",
         "updateTime": "2021-11-26T19:50:32+00:00",
         "validTimes": "2021-11-26T13:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-11-26T15:00:00-05:00",
+                "startTime": "2021-11-26T17:00:00-05:00",
                 "endTime": "2021-11-26T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy, with a high near 44. West wind 7 to 10 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely. Cloudy, with a high near 44. West wind around 10 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
