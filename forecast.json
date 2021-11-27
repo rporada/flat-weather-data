@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-26T23:45:33+00:00",
+        "updated": "2021-11-27T02:06:26+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-27T01:10:51+00:00",
-        "updateTime": "2021-11-26T23:45:33+00:00",
-        "validTimes": "2021-11-26T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-27T02:36:55+00:00",
+        "updateTime": "2021-11-27T02:06:26+00:00",
+        "validTimes": "2021-11-26T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-26T20:00:00-05:00",
+                "startTime": "2021-11-26T21:00:00-05:00",
                 "endTime": "2021-11-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70/snow,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "Rain showers likely before 9pm, then a chance of snow showers between 9pm and 1am. Cloudy, with a low around 30. West wind around 16 mph, with gusts as high as 33 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "A chance of snow showers before 2am. Cloudy, with a low around 30. West wind around 16 mph, with gusts as high as 33 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 39. West wind around 16 mph, with gusts as high as 31 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 39. West wind around 16 mph, with gusts as high as 31 mph."
             },
             {
                 "number": 3,
