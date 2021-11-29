@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-29T00:09:46+00:00",
+        "updated": "2021-11-29T02:52:23+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-29T01:12:51+00:00",
-        "updateTime": "2021-11-29T00:09:46+00:00",
-        "validTimes": "2021-11-28T18:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-29T04:31:06+00:00",
+        "updateTime": "2021-11-29T02:52:23+00:00",
+        "validTimes": "2021-11-28T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-11-28T20:00:00-05:00",
+                "startTime": "2021-11-28T23:00:00-05:00",
                 "endTime": "2021-11-29T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 to 6 mph",
-                "windDirection": "NE",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,70?size=medium",
                 "shortForecast": "Rain And Snow Showers Likely",
-                "detailedForecast": "A chance of snow showers before 11pm, then rain and snow showers likely. Cloudy, with a low around 31. Northeast wind 2 to 6 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Rain and snow showers likely. Cloudy, with a low around 31. North wind 2 to 6 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
