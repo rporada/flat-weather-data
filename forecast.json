@@ -41,7 +41,7 @@
         "updated": "2021-11-29T17:03:12+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-29T18:27:31+00:00",
+        "generatedAt": "2021-11-29T20:24:14+00:00",
         "updateTime": "2021-11-29T17:03:12+00:00",
         "validTimes": "2021-11-29T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-11-29T13:00:00-05:00",
+                "startTime": "2021-11-29T15:00:00-05:00",
                 "endTime": "2021-11-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
