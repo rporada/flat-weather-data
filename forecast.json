@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-30T15:12:27+00:00",
+        "updated": "2021-11-30T18:32:51+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-30T16:36:28+00:00",
-        "updateTime": "2021-11-30T15:12:27+00:00",
-        "validTimes": "2021-11-30T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-30T20:24:27+00:00",
+        "updateTime": "2021-11-30T18:32:51+00:00",
+        "validTimes": "2021-11-30T12:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-11-30T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-11-30T15:00:00-05:00",
                 "endTime": "2021-11-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 40. Southwest wind around 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 40. Southwest wind around 8 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-11-30T18:00:00-05:00",
                 "endTime": "2021-12-01T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 30,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 30. Southwest wind around 8 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 32. Southwest wind 5 to 8 mph."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2021-12-01T06:00:00-05:00",
                 "endTime": "2021-12-01T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 46,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 46. West wind 6 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 44. West wind 6 to 13 mph."
             },
             {
                 "number": 4,
@@ -100,14 +100,14 @@
                 "startTime": "2021-12-01T18:00:00-05:00",
                 "endTime": "2021-12-02T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 31,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain And Snow Showers",
-                "detailedForecast": "A slight chance of rain and snow showers after 5am. Mostly cloudy, with a low around 31. Southwest wind around 6 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain and snow showers after 2am. Mostly cloudy, with a low around 34. Southwest wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 5,
