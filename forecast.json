@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-30T18:32:51+00:00",
+        "updated": "2021-11-30T20:37:31+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-30T20:24:27+00:00",
-        "updateTime": "2021-11-30T18:32:51+00:00",
-        "validTimes": "2021-11-30T12:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-30T22:23:21+00:00",
+        "updateTime": "2021-11-30T20:37:31+00:00",
+        "validTimes": "2021-11-30T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-11-30T15:00:00-05:00",
+                "startTime": "2021-11-30T17:00:00-05:00",
                 "endTime": "2021-11-30T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 40,
+                "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 40. Southwest wind around 8 mph."
+                "detailedForecast": "Cloudy, with a high near 41. Southwest wind around 7 mph."
             },
             {
                 "number": 2,
