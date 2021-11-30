@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-11-30T07:47:57+00:00",
+        "updated": "2021-11-30T09:21:57+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-11-30T08:23:04+00:00",
-        "updateTime": "2021-11-30T07:47:57+00:00",
-        "validTimes": "2021-11-30T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-11-30T10:21:15+00:00",
+        "updateTime": "2021-11-30T09:21:57+00:00",
+        "validTimes": "2021-11-30T03:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-11-30T03:00:00-05:00",
+                "startTime": "2021-11-30T05:00:00-05:00",
                 "endTime": "2021-11-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 22,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
+                "windSpeed": "6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 22. Northwest wind around 7 mph."
+                "detailedForecast": "Clear, with a low around 24. West wind around 6 mph."
             },
             {
                 "number": 2,
