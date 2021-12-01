@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-01T15:06:09+00:00",
+        "updated": "2021-12-01T18:09:49+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-01T16:37:04+00:00",
-        "updateTime": "2021-12-01T15:06:09+00:00",
-        "validTimes": "2021-12-01T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-01T18:27:50+00:00",
+        "updateTime": "2021-12-01T18:09:49+00:00",
+        "validTimes": "2021-12-01T12:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-12-01T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-12-01T13:00:00-05:00",
                 "endTime": "2021-12-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 46, with temperatures falling to around 40 in the afternoon. West wind 5 to 8 mph."
+                "detailedForecast": "Partly sunny. High near 46, with temperatures falling to around 40 in the afternoon. West wind 6 to 12 mph."
             },
             {
                 "number": 2,
