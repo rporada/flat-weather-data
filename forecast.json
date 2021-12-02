@@ -41,7 +41,7 @@
         "updated": "2021-12-02T02:29:09+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-02T04:30:53+00:00",
+        "generatedAt": "2021-12-02T06:27:50+00:00",
         "updateTime": "2021-12-02T02:29:09+00:00",
         "validTimes": "2021-12-01T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-12-01T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-12-02T01:00:00-05:00",
                 "endTime": "2021-12-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -60,8 +60,8 @@
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,30?size=medium",
-                "shortForecast": "Cloudy then Chance Rain Showers",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers after 3am. Cloudy, with a low around 35. South wind around 5 mph. Chance of precipitation is 30%."
             },
             {
