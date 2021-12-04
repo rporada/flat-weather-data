@@ -41,7 +41,7 @@
         "updated": "2021-12-04T02:36:33+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-04T04:31:31+00:00",
+        "generatedAt": "2021-12-04T06:28:06+00:00",
         "updateTime": "2021-12-04T02:36:33+00:00",
         "validTimes": "2021-12-03T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-12-03T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-12-04T01:00:00-05:00",
                 "endTime": "2021-12-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 21. West wind 2 to 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 21. West wind around 5 mph."
             },
             {
                 "number": 2,
