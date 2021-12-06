@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-05T22:56:45+00:00",
+        "updated": "2021-12-06T03:17:42+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-06T01:16:00+00:00",
-        "updateTime": "2021-12-05T22:56:45+00:00",
-        "validTimes": "2021-12-05T16:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-06T06:28:32+00:00",
+        "updateTime": "2021-12-06T03:17:42+00:00",
+        "validTimes": "2021-12-05T21:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-12-05T20:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-12-06T01:00:00-05:00",
                 "endTime": "2021-12-06T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 35,
                 "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "3 to 7 mph",
+                "temperatureTrend": "rising",
+                "windSpeed": "7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 36. Southeast wind 3 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5am. Mostly cloudy. Low around 35, with temperatures rising to around 41 overnight. Southeast wind around 7 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "6 to 18 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,20?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "A chance of rain showers before 9am, then rain showers likely and patchy fog. Mostly cloudy, with a high near 61. South wind 6 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,20?size=medium",
+                "shortForecast": "Rain Showers then Patchy Fog",
+                "detailedForecast": "Rain showers before 9am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a high near 61. South wind 6 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
