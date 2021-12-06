@@ -41,7 +41,7 @@
         "updated": "2021-12-06T17:24:42+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-06T18:25:04+00:00",
+        "generatedAt": "2021-12-06T20:25:54+00:00",
         "updateTime": "2021-12-06T17:24:42+00:00",
         "validTimes": "2021-12-06T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-12-06T13:00:00-05:00",
+                "startTime": "2021-12-06T15:00:00-05:00",
                 "endTime": "2021-12-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "15 mph",
-                "windDirection": "SW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 63. Southwest wind around 15 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 63. South wind around 15 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
