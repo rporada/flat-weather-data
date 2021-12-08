@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-08T11:29:28+00:00",
+        "updated": "2021-12-08T14:26:58+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-08T14:21:52+00:00",
-        "updateTime": "2021-12-08T11:29:28+00:00",
-        "validTimes": "2021-12-08T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-08T16:36:21+00:00",
+        "updateTime": "2021-12-08T14:26:58+00:00",
+        "validTimes": "2021-12-08T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-12-08T09:00:00-05:00",
+                "startTime": "2021-12-08T11:00:00-05:00",
                 "endTime": "2021-12-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/snow,40?size=medium",
-                "shortForecast": "Cloudy then Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers after 1pm. Cloudy, with a high near 37. Northeast wind 3 to 10 mph. Chance of precipitation is 40%."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/snow,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers after 5pm. Cloudy, with a high near 37. Northeast wind 5 to 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -76,8 +76,8 @@
                 "windSpeed": "8 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,50?size=medium",
-                "shortForecast": "Chance Snow Showers then Light Snow Likely",
-                "detailedForecast": "A chance of snow showers before 7pm, then snow likely. Cloudy, with a low around 28. North wind around 8 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+                "shortForecast": "Slight Chance Snow Showers then Light Snow Likely",
+                "detailedForecast": "A slight chance of snow showers before 7pm, then snow likely. Cloudy, with a low around 28. North wind around 8 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 3,
