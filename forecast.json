@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-09T23:06:44+00:00",
+        "updated": "2021-12-10T02:22:30+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-10T01:15:39+00:00",
-        "updateTime": "2021-12-09T23:06:44+00:00",
-        "validTimes": "2021-12-09T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-10T02:37:27+00:00",
+        "updateTime": "2021-12-10T02:22:30+00:00",
+        "validTimes": "2021-12-09T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-12-09T20:00:00-05:00",
+                "startTime": "2021-12-09T21:00:00-05:00",
                 "endTime": "2021-12-10T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow between 4am and 5am. Mostly cloudy, with a low around 26. Northeast wind around 3 mph. Chance of precipitation is 20%."
+                "windSpeed": "2 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers after 4am. Cloudy, with a low around 27. East wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
