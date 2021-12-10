@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-10T18:06:40+00:00",
+        "updated": "2021-12-10T20:02:25+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-10T18:27:50+00:00",
-        "updateTime": "2021-12-10T18:06:40+00:00",
-        "validTimes": "2021-12-10T12:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-10T20:24:21+00:00",
+        "updateTime": "2021-12-10T20:02:25+00:00",
+        "validTimes": "2021-12-10T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-12-10T13:00:00-05:00",
+                "startTime": "2021-12-10T15:00:00-05:00",
                 "endTime": "2021-12-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "6 mph",
-                "windDirection": "S",
+                "windSpeed": "5 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 39 in the afternoon. South wind around 6 mph."
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 39 in the afternoon. Southeast wind around 5 mph."
             },
             {
                 "number": 2,
@@ -118,11 +118,11 @@
                 "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "9 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain between 8am and 9am. Mostly sunny, with a high near 47. West wind 9 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 47. West wind 9 to 15 mph, with gusts as high as 28 mph."
             },
             {
                 "number": 6,
@@ -130,14 +130,14 @@
                 "startTime": "2021-12-12T18:00:00-05:00",
                 "endTime": "2021-12-13T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 35. West wind around 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 34. West wind around 9 mph."
             },
             {
                 "number": 7,
@@ -145,14 +145,14 @@
                 "startTime": "2021-12-13T06:00:00-05:00",
                 "endTime": "2021-12-13T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 51,
+                "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. Southwest wind 7 to 13 mph."
+                "detailedForecast": "Sunny, with a high near 52. Southwest wind 8 to 13 mph."
             },
             {
                 "number": 8,
@@ -160,14 +160,14 @@
                 "startTime": "2021-12-13T18:00:00-05:00",
                 "endTime": "2021-12-14T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 35. West wind 6 to 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 37. West wind 6 to 9 mph."
             },
             {
                 "number": 9,
@@ -178,11 +178,11 @@
                 "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 3 to 7 mph."
+                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind around 7 mph."
             },
             {
                 "number": 10,
@@ -208,11 +208,11 @@
                 "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "1 to 6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. Southwest wind 2 to 6 mph."
+                "detailedForecast": "Partly sunny, with a high near 49. Southwest wind 1 to 6 mph."
             },
             {
                 "number": 12,
@@ -220,14 +220,14 @@
                 "startTime": "2021-12-15T18:00:00-05:00",
                 "endTime": "2021-12-16T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 39,
+                "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 39. South wind around 6 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 41. South wind around 7 mph."
             },
             {
                 "number": 13,
@@ -235,14 +235,14 @@
                 "startTime": "2021-12-16T06:00:00-05:00",
                 "endTime": "2021-12-16T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 57. Southwest wind 6 to 13 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 62. Southwest wind 8 to 14 mph."
             },
             {
                 "number": 14,
@@ -250,14 +250,14 @@
                 "startTime": "2021-12-16T18:00:00-05:00",
                 "endTime": "2021-12-17T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 46,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "12 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 46. Southwest wind around 12 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 44. Southwest wind around 13 mph."
             }
         ]
     }
