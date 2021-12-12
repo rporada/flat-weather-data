@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-11T23:37:10+00:00",
+        "updated": "2021-12-12T02:34:15+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-12T01:18:39+00:00",
-        "updateTime": "2021-12-11T23:37:10+00:00",
-        "validTimes": "2021-12-11T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-12T04:30:59+00:00",
+        "updateTime": "2021-12-12T02:34:15+00:00",
+        "validTimes": "2021-12-11T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-12-11T20:00:00-05:00",
+                "startTime": "2021-12-11T23:00:00-05:00",
                 "endTime": "2021-12-12T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "15 to 21 mph",
-                "windDirection": "SW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,20/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers before 11pm, then showers and thunderstorms between 11pm and 4am. Cloudy, with a low around 39. Southwest wind 15 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Showers and thunderstorms before 4am. Cloudy, with a low around 39. West wind 15 to 21 mph, with gusts as high as 41 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
