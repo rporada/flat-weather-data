@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-13T11:41:01+00:00",
+        "updated": "2021-12-13T14:54:31+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-13T14:21:41+00:00",
-        "updateTime": "2021-12-13T11:41:01+00:00",
-        "validTimes": "2021-12-13T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-13T16:37:17+00:00",
+        "updateTime": "2021-12-13T14:54:31+00:00",
+        "validTimes": "2021-12-13T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-12-13T09:00:00-05:00",
+                "startTime": "2021-12-13T11:00:00-05:00",
                 "endTime": "2021-12-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "9 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 51. Southwest wind 9 to 13 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 51. Southwest wind 9 to 13 mph."
             },
             {
                 "number": 2,
