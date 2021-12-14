@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-13T18:46:08+00:00",
+        "updated": "2021-12-13T22:56:20+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-13T22:19:42+00:00",
-        "updateTime": "2021-12-13T18:46:08+00:00",
-        "validTimes": "2021-12-13T12:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-14T01:18:53+00:00",
+        "updateTime": "2021-12-13T22:56:20+00:00",
+        "validTimes": "2021-12-13T16:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,36 +51,21 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2021-12-13T17:00:00-05:00",
-                "endTime": "2021-12-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2021-12-13T18:00:00-05:00",
+                "startTime": "2021-12-13T20:00:00-05:00",
                 "endTime": "2021-12-14T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 37,
+                "temperature": 38,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 37. West wind around 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 38. West wind 6 to 9 mph."
             },
             {
-                "number": 3,
+                "number": 2,
                 "name": "Tuesday",
                 "startTime": "2021-12-14T06:00:00-05:00",
                 "endTime": "2021-12-14T18:00:00-05:00",
@@ -95,7 +80,7 @@
                 "detailedForecast": "Sunny. High near 47, with temperatures falling to around 41 in the afternoon. Northwest wind around 8 mph."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Tuesday Night",
                 "startTime": "2021-12-14T18:00:00-05:00",
                 "endTime": "2021-12-15T06:00:00-05:00",
@@ -110,7 +95,7 @@
                 "detailedForecast": "Partly cloudy, with a low around 27. Northwest wind 2 to 6 mph."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Wednesday",
                 "startTime": "2021-12-15T06:00:00-05:00",
                 "endTime": "2021-12-15T18:00:00-05:00",
@@ -125,7 +110,7 @@
                 "detailedForecast": "Partly sunny, with a high near 47. West wind 1 to 6 mph."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Wednesday Night",
                 "startTime": "2021-12-15T18:00:00-05:00",
                 "endTime": "2021-12-16T06:00:00-05:00",
@@ -140,7 +125,7 @@
                 "detailedForecast": "A chance of rain showers after 7pm. Cloudy, with a low around 39. South wind 6 to 9 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Thursday",
                 "startTime": "2021-12-16T06:00:00-05:00",
                 "endTime": "2021-12-16T18:00:00-05:00",
@@ -155,7 +140,7 @@
                 "detailedForecast": "A chance of rain showers before 10am. Mostly cloudy, with a high near 59. Southwest wind 9 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Thursday Night",
                 "startTime": "2021-12-16T18:00:00-05:00",
                 "endTime": "2021-12-17T06:00:00-05:00",
@@ -170,7 +155,7 @@
                 "detailedForecast": "A slight chance of rain showers between 10pm and 11pm. Mostly cloudy, with a low around 45. Southwest wind around 13 mph, with gusts as high as 23 mph."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Friday",
                 "startTime": "2021-12-17T06:00:00-05:00",
                 "endTime": "2021-12-17T18:00:00-05:00",
@@ -185,7 +170,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 53. West wind 7 to 12 mph."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Friday Night",
                 "startTime": "2021-12-17T18:00:00-05:00",
                 "endTime": "2021-12-18T06:00:00-05:00",
@@ -200,7 +185,7 @@
                 "detailedForecast": "A slight chance of rain between 11pm and 1am, then a chance of rain and snow. Mostly cloudy, with a low around 37. West wind 2 to 7 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Saturday",
                 "startTime": "2021-12-18T06:00:00-05:00",
                 "endTime": "2021-12-18T18:00:00-05:00",
@@ -215,7 +200,7 @@
                 "detailedForecast": "A chance of rain and snow before 8am, then a chance of rain and snow. Mostly cloudy, with a high near 46. Northwest wind 2 to 7 mph. Chance of precipitation is 50%."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Saturday Night",
                 "startTime": "2021-12-18T18:00:00-05:00",
                 "endTime": "2021-12-19T06:00:00-05:00",
@@ -230,7 +215,7 @@
                 "detailedForecast": "A chance of rain before 1am, then a slight chance of rain and snow. Mostly cloudy, with a low around 29. Northwest wind 6 to 9 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Sunday",
                 "startTime": "2021-12-19T06:00:00-05:00",
                 "endTime": "2021-12-19T18:00:00-05:00",
@@ -245,7 +230,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 39. Northwest wind 8 to 13 mph."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Sunday Night",
                 "startTime": "2021-12-19T18:00:00-05:00",
                 "endTime": "2021-12-20T06:00:00-05:00",
@@ -258,6 +243,21 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 24. Northwest wind 6 to 9 mph."
+            },
+            {
+                "number": 14,
+                "name": "Monday",
+                "startTime": "2021-12-20T06:00:00-05:00",
+                "endTime": "2021-12-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct/snow?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after noon. Mostly sunny, with a high near 39. West wind around 6 mph."
             }
         ]
     }
