@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-18T10:12:29+00:00",
+        "updated": "2021-12-18T14:43:37+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-18T14:20:33+00:00",
-        "updateTime": "2021-12-18T10:12:29+00:00",
-        "validTimes": "2021-12-18T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-18T16:36:14+00:00",
+        "updateTime": "2021-12-18T14:43:37+00:00",
+        "validTimes": "2021-12-18T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-12-18T09:00:00-05:00",
+                "startTime": "2021-12-18T11:00:00-05:00",
                 "endTime": "2021-12-18T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 37,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,100?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "A slight chance of snow before 11am, then a chance of rain between 11am and noon, then snow. Cloudy, with a high near 37. Northeast wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/snow,100?size=medium",
+                "shortForecast": "Rain And Snow",
+                "detailedForecast": "Rain likely before 2pm, then rain and snow between 2pm and 3pm, then patchy fog and rain and snow between 3pm and 4pm, then patchy fog and rain and snow between 4pm and 5pm, then patchy fog and rain and snow. Cloudy, with a high near 39. Northeast wind around 6 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_snow,100/rain,100?size=medium",
-                "shortForecast": "Sleet then Light Rain",
-                "detailedForecast": "Sleet before 7pm, then rain. Cloudy, with a low around 34. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and rain and snow. Cloudy, with a low around 34. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. Little or no snow accumulation expected."
             },
             {
                 "number": 3,
@@ -91,8 +91,8 @@
                 "windSpeed": "14 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,20?size=medium",
-                "shortForecast": "Chance Rain And Snow",
-                "detailedForecast": "A chance of rain before 7am, then a chance of rain and snow between 7am and 1pm. Partly sunny. High near 39, with temperatures falling to around 32 in the afternoon. Northwest wind around 14 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Patchy Fog then Slight Chance Rain And Snow",
+                "detailedForecast": "Patchy fog and a chance of rain and snow before 10am, then a slight chance of rain and snow between 10am and 1pm. Partly sunny. High near 39, with temperatures falling to around 32 in the afternoon. Northwest wind around 14 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
