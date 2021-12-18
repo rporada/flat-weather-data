@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-18T19:11:03+00:00",
+        "updated": "2021-12-18T20:49:18+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-18T20:24:14+00:00",
-        "updateTime": "2021-12-18T19:11:03+00:00",
-        "validTimes": "2021-12-18T13:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-18T22:22:36+00:00",
+        "updateTime": "2021-12-18T20:49:18+00:00",
+        "validTimes": "2021-12-18T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2021-12-18T15:00:00-05:00",
+                "startTime": "2021-12-18T17:00:00-05:00",
                 "endTime": "2021-12-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -61,8 +61,8 @@
                 "windSpeed": "5 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Rain before 4pm, then patchy fog and rain and snow between 4pm and 5pm, then patchy fog and rain and snow. Cloudy, with a high near 40. East wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "shortForecast": "Rain And Snow",
+                "detailedForecast": "Rain and snow. Cloudy, with a high near 40. East wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -90,9 +90,9 @@
                 "temperatureTrend": "falling",
                 "windSpeed": "9 to 14 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog and a chance of rain and snow before 9am, then patchy fog and a slight chance of rain between 9am and 10am. Partly sunny. High near 40, with temperatures falling to around 30 in the afternoon. Northwest wind 9 to 14 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/bkn?size=medium",
+                "shortForecast": "Chance Light Rain then Partly Sunny",
+                "detailedForecast": "A chance of rain and patchy fog before 10am. Partly sunny. High near 40, with temperatures falling to around 30 in the afternoon. Northwest wind 9 to 14 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
