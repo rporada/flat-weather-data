@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-21T14:46:54+00:00",
+        "updated": "2021-12-21T17:18:43+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-21T16:38:15+00:00",
-        "updateTime": "2021-12-21T14:46:54+00:00",
-        "validTimes": "2021-12-21T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-21T18:28:27+00:00",
+        "updateTime": "2021-12-21T17:18:43+00:00",
+        "validTimes": "2021-12-21T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2021-12-21T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2021-12-21T13:00:00-05:00",
                 "endTime": "2021-12-21T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 43. Southwest wind 2 to 8 mph."
+                "detailedForecast": "Mostly sunny, with a high near 43. Southwest wind 2 to 7 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2021-12-21T18:00:00-05:00",
                 "endTime": "2021-12-22T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 31,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,50?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 3am. Mostly cloudy, with a low around 31. East wind around 3 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain after 1am. Mostly cloudy, with a low around 33. East wind around 3 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2021-12-22T06:00:00-05:00",
                 "endTime": "2021-12-22T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 42,
+                "temperature": 43,
                 "temperatureUnit": "F",
-                "temperatureTrend": null,
+                "temperatureTrend": "falling",
                 "windSpeed": "5 to 16 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,50?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 3pm. Partly sunny, with a high near 42. Northwest wind 5 to 16 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain likely before 4pm. Mostly cloudy. High near 43, with temperatures falling to around 36 in the afternoon. Northwest wind 5 to 16 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 4,
