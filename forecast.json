@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-22T12:56:52+00:00",
+        "updated": "2021-12-22T16:12:33+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-22T14:21:46+00:00",
-        "updateTime": "2021-12-22T12:56:52+00:00",
-        "validTimes": "2021-12-22T06:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-22T16:38:01+00:00",
+        "updateTime": "2021-12-22T16:12:33+00:00",
+        "validTimes": "2021-12-22T10:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-12-22T09:00:00-05:00",
+                "startTime": "2021-12-22T11:00:00-05:00",
                 "endTime": "2021-12-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 41,
                 "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "3 to 13 mph",
+                "temperatureTrend": "falling",
+                "windSpeed": "5 to 13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog before 3pm. Mostly cloudy, with a high near 41. Northwest wind 3 to 13 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely and patchy fog before 3pm. Partly sunny. High near 41, with temperatures falling to around 34 in the afternoon. Northwest wind 5 to 13 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
