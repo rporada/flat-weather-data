@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-22T03:18:12+00:00",
+        "updated": "2021-12-22T05:57:43+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-22T04:32:03+00:00",
-        "updateTime": "2021-12-22T03:18:12+00:00",
-        "validTimes": "2021-12-21T21:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-22T06:29:21+00:00",
+        "updateTime": "2021-12-22T05:57:43+00:00",
+        "validTimes": "2021-12-21T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-12-21T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-12-22T01:00:00-05:00",
                 "endTime": "2021-12-22T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -60,8 +60,8 @@
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,40?size=medium",
-                "shortForecast": "Cloudy then Chance Light Rain",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain after 3am. Cloudy, with a low around 33. East wind around 3 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
@@ -70,14 +70,14 @@
                 "startTime": "2021-12-22T06:00:00-05:00",
                 "endTime": "2021-12-22T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 43,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "3 to 13 mph",
-                "windDirection": "W",
+                "windSpeed": "2 to 14 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,50?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "A chance of rain before 8am, then rain likely and patchy fog between 8am and 4pm. Mostly cloudy. High near 43, with temperatures falling to around 36 in the afternoon. West wind 3 to 13 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain before 7am, then rain likely and patchy fog between 7am and 3pm. Mostly cloudy. High near 44, with temperatures falling to around 36 in the afternoon. Northwest wind 2 to 14 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "14 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 25. West wind around 14 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Mostly clear, with a low around 25. West wind 10 to 15 mph, with gusts as high as 32 mph."
             },
             {
                 "number": 4,
@@ -107,7 +107,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 33. Northwest wind 6 to 12 mph."
+                "detailedForecast": "Sunny, with a high near 33. Northwest wind 6 to 12 mph, with gusts as high as 26 mph."
             },
             {
                 "number": 5,
