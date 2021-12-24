@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-23T23:20:00+00:00",
+        "updated": "2021-12-24T02:42:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-24T01:16:08+00:00",
-        "updateTime": "2021-12-23T23:20:00+00:00",
-        "validTimes": "2021-12-23T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-24T04:31:58+00:00",
+        "updateTime": "2021-12-24T02:42:56+00:00",
+        "validTimes": "2021-12-23T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-12-23T20:00:00-05:00",
+                "startTime": "2021-12-23T23:00:00-05:00",
                 "endTime": "2021-12-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after 3am. Mostly cloudy, with a low around 21. Northwest wind 1 to 6 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "windSpeed": "3 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Very Light Snow",
+                "detailedForecast": "A slight chance of snow after 3am. Cloudy, with a low around 21. West wind around 3 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -77,7 +77,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,30?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely before 2pm. Mostly cloudy, with a high near 36. Southwest wind around 3 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Snow likely before 2pm. Mostly cloudy, with a high near 36. Southwest wind around 3 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 3,
