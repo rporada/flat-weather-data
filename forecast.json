@@ -41,7 +41,7 @@
         "updated": "2021-12-24T02:42:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-24T04:31:58+00:00",
+        "generatedAt": "2021-12-24T06:29:10+00:00",
         "updateTime": "2021-12-24T02:42:56+00:00",
         "validTimes": "2021-12-23T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2021-12-23T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2021-12-24T01:00:00-05:00",
                 "endTime": "2021-12-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Very Light Snow",
-                "detailedForecast": "A slight chance of snow after 3am. Cloudy, with a low around 21. West wind around 3 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Very Light Snow",
+                "detailedForecast": "A slight chance of snow after 3am. Cloudy, with a low around 21. West wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
