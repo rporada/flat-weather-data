@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-24T23:50:44+00:00",
+        "updated": "2021-12-25T02:40:30+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-25T02:43:13+00:00",
-        "updateTime": "2021-12-24T23:50:44+00:00",
-        "validTimes": "2021-12-24T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-25T04:31:37+00:00",
+        "updateTime": "2021-12-25T02:40:30+00:00",
+        "validTimes": "2021-12-24T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2021-12-24T21:00:00-05:00",
+                "startTime": "2021-12-24T23:00:00-05:00",
                 "endTime": "2021-12-25T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 27,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind around 3 mph. Little or no ice accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 26. Southwest wind around 3 mph. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -76,8 +76,8 @@
                 "windSpeed": "3 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_fzra,90/rain,90?size=medium",
-                "shortForecast": "Freezing Rain Likely then Light Rain",
-                "detailedForecast": "Freezing rain likely before 9am, then rain. Cloudy, with a high near 39. Northeast wind around 3 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+                "shortForecast": "Freezing Rain then Light Rain",
+                "detailedForecast": "Freezing rain before 9am, then rain. Cloudy, with a high near 39. Northeast wind around 3 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
             },
             {
                 "number": 3,
