@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-25T09:09:46+00:00",
+        "updated": "2021-12-25T20:12:58+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-25T14:20:49+00:00",
-        "updateTime": "2021-12-25T09:09:46+00:00",
-        "validTimes": "2021-12-25T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-25T20:24:27+00:00",
+        "updateTime": "2021-12-25T20:12:58+00:00",
+        "validTimes": "2021-12-25T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Christmas Day",
-                "startTime": "2021-12-25T09:00:00-05:00",
+                "startTime": "2021-12-25T15:00:00-05:00",
                 "endTime": "2021-12-25T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 37,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_fzra,90/rain,90?size=medium",
-                "shortForecast": "Freezing Rain then Light Rain",
-                "detailedForecast": "Freezing rain before 10am, then rain and patchy fog. Cloudy, with a high near 37. Northeast wind around 6 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 34. North wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 33. North wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_fzra,60?size=medium",
+                "shortForecast": "Freezing Rain Likely then Light Rain Likely",
+                "detailedForecast": "Rain likely and patchy fog before 7pm, then freezing rain likely and patchy fog between 7pm and 2am, then rain likely and patchy fog and a slight chance of freezing rain. Cloudy, with a low around 33. North wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2021-12-26T06:00:00-05:00",
                 "endTime": "2021-12-26T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 42,
+                "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Partly Sunny",
-                "detailedForecast": "A slight chance of rain before 7am. Partly sunny, with a high near 42. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/fzra,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Freezing Rain then Partly Sunny",
+                "detailedForecast": "A slight chance of freezing rain before 7am. Partly sunny, with a high near 40. Northwest wind 5 to 12 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 4,
@@ -100,14 +100,14 @@
                 "startTime": "2021-12-26T18:00:00-05:00",
                 "endTime": "2021-12-27T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 26. Northwest wind around 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 25. Northwest wind 9 to 13 mph."
             },
             {
                 "number": 5,
@@ -135,9 +135,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "2 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 28. Southwest wind around 2 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fzra,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Freezing Rain",
+                "detailedForecast": "A slight chance of freezing rain after 3am. Mostly cloudy, with a low around 28. Southwest wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 7,
@@ -145,14 +145,14 @@
                 "startTime": "2021-12-28T06:00:00-05:00",
                 "endTime": "2021-12-28T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 45. West wind 2 to 6 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 44. West wind 2 to 7 mph, with gusts as high as 21 mph."
             },
             {
                 "number": 8,
@@ -160,14 +160,14 @@
                 "startTime": "2021-12-28T18:00:00-05:00",
                 "endTime": "2021-12-29T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 34,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 9pm. Cloudy, with a low around 34. North wind around 3 mph. Chance of precipitation is 40%."
+                "windSpeed": "5 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 9pm and 5am. Mostly cloudy, with a low around 33. Northwest wind around 5 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 9,
@@ -175,14 +175,14 @@
                 "startTime": "2021-12-29T06:00:00-05:00",
                 "endTime": "2021-12-29T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 47,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a high near 47. West wind around 5 mph. Chance of precipitation is 40%."
+                "windSpeed": "2 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 9am. Mostly cloudy, with a high near 43. North wind around 2 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 10,
@@ -190,14 +190,14 @@
                 "startTime": "2021-12-29T18:00:00-05:00",
                 "endTime": "2021-12-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 37,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 37. West wind around 6 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 35. West wind around 3 mph."
             },
             {
                 "number": 11,
@@ -208,11 +208,11 @@
                 "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny, with a high near 45. West wind 6 to 10 mph. Chance of precipitation is 40%."
+                "detailedForecast": "A slight chance of rain showers before 7am, then a chance of rain. Partly sunny, with a high near 45. West wind around 7 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 12,
@@ -220,14 +220,14 @@
                 "startTime": "2021-12-30T18:00:00-05:00",
                 "endTime": "2021-12-31T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 29,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/sct?size=medium",
-                "shortForecast": "Slight Chance Rain And Snow then Partly Cloudy",
-                "detailedForecast": "A chance of rain before 11pm, then a slight chance of rain and snow between 11pm and midnight. Partly cloudy, with a low around 29. West wind around 8 mph. Chance of precipitation is 30%."
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,50/snow?size=medium",
+                "shortForecast": "Chance Light Rain then Slight Chance Light Snow",
+                "detailedForecast": "A chance of rain before midnight, then a slight chance of snow between midnight and 1am, then a slight chance of snow showers between 1am and 3am. Mostly cloudy, with a low around 30. Northwest wind around 6 mph. Chance of precipitation is 50%."
             },
             {
                 "number": 13,
@@ -235,14 +235,14 @@
                 "startTime": "2021-12-31T06:00:00-05:00",
                 "endTime": "2021-12-31T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 40,
+                "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 40. West wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after noon. Mostly sunny, with a high near 41. West wind 6 to 9 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 14,
@@ -255,9 +255,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct/snow?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 5am. Partly cloudy, with a low around 26. West wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of rain showers before 7pm, then a slight chance of snow showers. Partly cloudy, with a low around 26. West wind around 7 mph."
             }
         ]
     }
