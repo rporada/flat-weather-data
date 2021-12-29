@@ -41,7 +41,7 @@
         "updated": "2021-12-29T07:59:07+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-29T08:28:57+00:00",
+        "generatedAt": "2021-12-29T10:26:11+00:00",
         "updateTime": "2021-12-29T07:59:07+00:00",
         "validTimes": "2021-12-29T01:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2021-12-29T03:00:00-05:00",
+                "startTime": "2021-12-29T05:00:00-05:00",
                 "endTime": "2021-12-29T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "2 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a low around 33. Northwest wind around 2 mph. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of snow. Cloudy, with a low around 33. Northwest wind around 2 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
