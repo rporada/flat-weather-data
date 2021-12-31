@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2021-12-31T11:47:31+00:00",
+        "updated": "2021-12-31T14:27:46+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2021-12-31T12:38:05+00:00",
-        "updateTime": "2021-12-31T11:47:31+00:00",
-        "validTimes": "2021-12-31T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2021-12-31T16:37:31+00:00",
+        "updateTime": "2021-12-31T14:27:46+00:00",
+        "validTimes": "2021-12-31T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2021-12-31T07:00:00-05:00",
+                "startTime": "2021-12-31T11:00:00-05:00",
                 "endTime": "2021-12-31T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 47,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 8am, then areas of fog between 8am and 1pm, then a slight chance of rain showers. Cloudy, with a high near 47. Northeast wind around 3 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Cloudy, with a high near 46. Northeast wind around 3 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "3 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain showers before 7pm, then a slight chance of rain between 7pm and 11pm, then patchy fog between 11pm and 4am, then a slight chance of rain. Mostly cloudy, with a low around 43. South wind around 3 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain showers before 10pm, then patchy fog between 10pm and 11pm, then a slight chance of rain showers between 4am and 5am, then a slight chance of rain. Mostly cloudy, with a low around 43. South wind around 3 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 3,
