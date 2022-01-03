@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-03T11:07:19+00:00",
+        "updated": "2022-01-03T14:32:48+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-03T14:21:49+00:00",
-        "updateTime": "2022-01-03T11:07:19+00:00",
-        "validTimes": "2022-01-03T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-03T16:39:13+00:00",
+        "updateTime": "2022-01-03T14:32:48+00:00",
+        "validTimes": "2022-01-03T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-01-03T09:00:00-05:00",
+                "startTime": "2022-01-03T11:00:00-05:00",
                 "endTime": "2022-01-03T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 28,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "10 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/bkn,20?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 28. North wind around 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers between 2pm and 5pm. Mostly cloudy, with a high near 28. North wind around 10 mph."
             },
             {
                 "number": 2,
