@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-03T23:30:49+00:00",
+        "updated": "2022-01-04T02:29:48+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-04T01:19:13+00:00",
-        "updateTime": "2022-01-03T23:30:49+00:00",
-        "validTimes": "2022-01-03T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-04T02:41:58+00:00",
+        "updateTime": "2022-01-04T02:29:48+00:00",
+        "validTimes": "2022-01-03T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-03T20:00:00-05:00",
+                "startTime": "2022-01-03T21:00:00-05:00",
                 "endTime": "2022-01-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 13,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 13. Northwest wind 8 to 12 mph."
+                "detailedForecast": "Partly cloudy, with a low around 13. Northwest wind 7 to 10 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 33. West wind around 7 mph."
+                "detailedForecast": "Sunny, with a high near 33. West wind around 6 mph."
             },
             {
                 "number": 3,
