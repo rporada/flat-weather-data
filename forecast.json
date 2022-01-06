@@ -41,7 +41,7 @@
         "updated": "2022-01-06T14:06:13+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-06T18:29:05+00:00",
+        "generatedAt": "2022-01-06T20:24:00+00:00",
         "updateTime": "2022-01-06T14:06:13+00:00",
         "validTimes": "2022-01-06T08:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-06T13:00:00-05:00",
+                "startTime": "2022-01-06T15:00:00-05:00",
                 "endTime": "2022-01-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 40. West wind 6 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly sunny, with a high near 40. West wind 6 to 9 mph."
             },
             {
                 "number": 2,
