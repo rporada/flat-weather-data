@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-06T12:28:55+00:00",
+        "updated": "2022-01-06T14:06:13+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-06T12:40:08+00:00",
-        "updateTime": "2022-01-06T12:28:55+00:00",
-        "validTimes": "2022-01-06T06:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-06T14:21:58+00:00",
+        "updateTime": "2022-01-06T14:06:13+00:00",
+        "validTimes": "2022-01-06T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-01-06T07:00:00-05:00",
+                "startTime": "2022-01-06T09:00:00-05:00",
                 "endTime": "2022-01-06T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 39,
+                "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "6 to 12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 39. West wind 6 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 40. West wind 6 to 12 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 2,
