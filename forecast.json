@@ -41,7 +41,7 @@
         "updated": "2022-01-06T05:34:43+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-06T06:29:33+00:00",
+        "generatedAt": "2022-01-06T08:29:29+00:00",
         "updateTime": "2022-01-06T05:34:43+00:00",
         "validTimes": "2022-01-05T23:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-01-06T01:00:00-05:00",
+                "startTime": "2022-01-06T03:00:00-05:00",
                 "endTime": "2022-01-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 35. West wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 35. West wind around 7 mph."
             },
             {
                 "number": 2,
