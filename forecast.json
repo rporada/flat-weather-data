@@ -41,7 +41,7 @@
         "updated": "2022-01-07T23:24:29+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-08T01:18:45+00:00",
+        "generatedAt": "2022-01-08T02:45:08+00:00",
         "updateTime": "2022-01-07T23:24:29+00:00",
         "validTimes": "2022-01-07T17:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-07T20:00:00-05:00",
+                "startTime": "2022-01-07T21:00:00-05:00",
                 "endTime": "2022-01-08T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 15,
@@ -62,7 +62,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. Northwest wind around 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 15. Northwest wind around 12 mph, with gusts as high as 22 mph."
             },
             {
                 "number": 2,
