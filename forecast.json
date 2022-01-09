@@ -41,7 +41,7 @@
         "updated": "2022-01-09T20:15:21+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-09T20:24:59+00:00",
+        "generatedAt": "2022-01-09T22:23:14+00:00",
         "updateTime": "2022-01-09T20:15:21+00:00",
         "validTimes": "2022-01-09T14:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-09T15:00:00-05:00",
+                "startTime": "2022-01-09T17:00:00-05:00",
                 "endTime": "2022-01-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "15 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a high near 41. Southwest wind around 15 mph, with gusts as high as 31 mph. Chance of precipitation is 60%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Cloudy, with a high near 41. Southwest wind around 14 mph, with gusts as high as 29 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 2,
