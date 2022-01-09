@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-08T23:46:31+00:00",
+        "updated": "2022-01-09T02:30:46+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-09T01:23:23+00:00",
-        "updateTime": "2022-01-08T23:46:31+00:00",
-        "validTimes": "2022-01-08T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-09T02:43:58+00:00",
+        "updateTime": "2022-01-09T02:30:46+00:00",
+        "validTimes": "2022-01-08T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-08T20:00:00-05:00",
+                "startTime": "2022-01-08T21:00:00-05:00",
                 "endTime": "2022-01-09T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 15,
+                "temperature": 17,
                 "temperatureUnit": "F",
-                "temperatureTrend": "rising",
+                "temperatureTrend": null,
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 22 overnight. Southwest wind 2 to 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 17. Southwest wind 2 to 7 mph."
             },
             {
                 "number": 2,
