@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-09T20:15:21+00:00",
+        "updated": "2022-01-09T23:17:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-09T22:23:14+00:00",
-        "updateTime": "2022-01-09T20:15:21+00:00",
-        "validTimes": "2022-01-09T14:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-10T01:18:14+00:00",
+        "updateTime": "2022-01-09T23:17:56+00:00",
+        "validTimes": "2022-01-09T17:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,23 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2022-01-09T17:00:00-05:00",
-                "endTime": "2022-01-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a high near 41. Southwest wind around 14 mph, with gusts as high as 29 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2022-01-09T18:00:00-05:00",
+                "startTime": "2022-01-09T20:00:00-05:00",
                 "endTime": "2022-01-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -75,12 +60,12 @@
                 "temperatureTrend": null,
                 "windSpeed": "10 to 14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 11pm. Mostly cloudy, with a low around 23. West wind 10 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 11pm. Mostly cloudy, with a low around 23. West wind 10 to 14 mph. Chance of precipitation is 20%."
             },
             {
-                "number": 3,
+                "number": 2,
                 "name": "Monday",
                 "startTime": "2022-01-10T06:00:00-05:00",
                 "endTime": "2022-01-10T18:00:00-05:00",
@@ -95,7 +80,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 27. West wind 8 to 12 mph."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Monday Night",
                 "startTime": "2022-01-10T18:00:00-05:00",
                 "endTime": "2022-01-11T06:00:00-05:00",
@@ -107,10 +92,10 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 7. Wind chill values as low as -2. Northwest wind 7 to 10 mph."
+                "detailedForecast": "Partly cloudy, with a low around 7. Wind chill values as low as -3. Northwest wind 7 to 10 mph."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Tuesday",
                 "startTime": "2022-01-11T06:00:00-05:00",
                 "endTime": "2022-01-11T18:00:00-05:00",
@@ -122,10 +107,10 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 12. Northwest wind 7 to 13 mph."
+                "detailedForecast": "Sunny, with a high near 12. Wind chill values as low as -8. Northwest wind 7 to 13 mph."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Tuesday Night",
                 "startTime": "2022-01-11T18:00:00-05:00",
                 "endTime": "2022-01-12T06:00:00-05:00",
@@ -140,7 +125,7 @@
                 "detailedForecast": "Mostly clear, with a low around 4. West wind 3 to 7 mph."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Wednesday",
                 "startTime": "2022-01-12T06:00:00-05:00",
                 "endTime": "2022-01-12T18:00:00-05:00",
@@ -155,7 +140,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 34. Southwest wind 6 to 14 mph, with gusts as high as 24 mph."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Wednesday Night",
                 "startTime": "2022-01-12T18:00:00-05:00",
                 "endTime": "2022-01-13T06:00:00-05:00",
@@ -170,7 +155,7 @@
                 "detailedForecast": "Mostly cloudy, with a low around 25. Southwest wind 5 to 9 mph."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Thursday",
                 "startTime": "2022-01-13T06:00:00-05:00",
                 "endTime": "2022-01-13T18:00:00-05:00",
@@ -185,7 +170,7 @@
                 "detailedForecast": "Mostly cloudy, with a high near 37. West wind around 3 mph."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Thursday Night",
                 "startTime": "2022-01-13T18:00:00-05:00",
                 "endTime": "2022-01-14T06:00:00-05:00",
@@ -200,7 +185,7 @@
                 "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 24. Northwest wind 2 to 6 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Friday",
                 "startTime": "2022-01-14T06:00:00-05:00",
                 "endTime": "2022-01-14T18:00:00-05:00",
@@ -215,7 +200,7 @@
                 "detailedForecast": "A slight chance of snow. Partly sunny, with a high near 32. North wind 6 to 9 mph."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Friday Night",
                 "startTime": "2022-01-14T18:00:00-05:00",
                 "endTime": "2022-01-15T06:00:00-05:00",
@@ -230,7 +215,7 @@
                 "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 19. North wind around 9 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Saturday",
                 "startTime": "2022-01-15T06:00:00-05:00",
                 "endTime": "2022-01-15T18:00:00-05:00",
@@ -245,7 +230,7 @@
                 "detailedForecast": "A chance of snow. Partly sunny, with a high near 30. Northwest wind around 8 mph. Chance of precipitation is 40%."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Saturday Night",
                 "startTime": "2022-01-15T18:00:00-05:00",
                 "endTime": "2022-01-16T06:00:00-05:00",
@@ -258,6 +243,21 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
                 "shortForecast": "Chance Light Snow",
                 "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 21. North wind around 6 mph. Chance of precipitation is 50%."
+            },
+            {
+                "number": 14,
+                "name": "Sunday",
+                "startTime": "2022-01-16T06:00:00-05:00",
+                "endTime": "2022-01-16T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 3pm, then a chance of rain and snow. Partly sunny, with a high near 35. North wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 40%."
             }
         ]
     }
