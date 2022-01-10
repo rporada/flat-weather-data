@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-09T23:17:56+00:00",
+        "updated": "2022-01-10T02:59:07+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-10T02:43:44+00:00",
-        "updateTime": "2022-01-09T23:17:56+00:00",
-        "validTimes": "2022-01-09T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-10T04:32:36+00:00",
+        "updateTime": "2022-01-10T02:59:07+00:00",
+        "validTimes": "2022-01-09T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-09T21:00:00-05:00",
+                "startTime": "2022-01-09T23:00:00-05:00",
                 "endTime": "2022-01-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 23,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A slight chance of rain before 11pm. Mostly cloudy, with a low around 23. West wind 10 to 14 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 23. West wind around 13 mph, with gusts as high as 24 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 27. West wind 8 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 27. West wind around 10 mph, with gusts as high as 22 mph."
             },
             {
                 "number": 3,
