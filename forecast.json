@@ -41,7 +41,7 @@
         "updated": "2022-01-11T00:54:50+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-11T01:20:55+00:00",
+        "generatedAt": "2022-01-11T02:43:31+00:00",
         "updateTime": "2022-01-11T00:54:50+00:00",
         "validTimes": "2022-01-10T18:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-10T20:00:00-05:00",
+                "startTime": "2022-01-10T21:00:00-05:00",
                 "endTime": "2022-01-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 7,
