@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-11T20:03:41+00:00",
+        "updated": "2022-01-11T21:12:22+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-11T20:24:55+00:00",
-        "updateTime": "2022-01-11T20:03:41+00:00",
-        "validTimes": "2022-01-11T14:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-11T22:24:05+00:00",
+        "updateTime": "2022-01-11T21:12:22+00:00",
+        "validTimes": "2022-01-11T15:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-11T15:00:00-05:00",
+                "startTime": "2022-01-11T17:00:00-05:00",
                 "endTime": "2022-01-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 13,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 13. Northwest wind around 8 mph."
+                "detailedForecast": "Sunny, with a high near 13. Northwest wind around 6 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2022-01-11T18:00:00-05:00",
                 "endTime": "2022-01-12T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 2,
+                "temperature": 8,
                 "temperatureUnit": "F",
-                "temperatureTrend": "rising",
+                "temperatureTrend": null,
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 2, with temperatures rising to around 13 overnight. Southwest wind 3 to 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 8. Southwest wind 3 to 7 mph."
             },
             {
                 "number": 3,
