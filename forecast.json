@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-11T03:26:20+00:00",
+        "updated": "2022-01-11T05:25:14+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-11T04:31:38+00:00",
-        "updateTime": "2022-01-11T03:26:20+00:00",
-        "validTimes": "2022-01-10T21:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-11T06:30:17+00:00",
+        "updateTime": "2022-01-11T05:25:14+00:00",
+        "validTimes": "2022-01-10T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-01-10T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-01-11T01:00:00-05:00",
                 "endTime": "2022-01-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 7,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "12 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers before 3am. Mostly cloudy. Low around 7, with temperatures rising to around 13 overnight. Wind chill values as low as -1. Northwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow showers before 3am. Mostly cloudy. Low around 7, with temperatures rising to around 13 overnight. Wind chill values as low as -1. Northwest wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 11,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "6 to 14 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 11. Wind chill values as low as -9. Northwest wind 7 to 13 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Sunny, with a high near 11. Wind chill values as low as -9. Northwest wind 6 to 14 mph."
             },
             {
                 "number": 3,
@@ -89,10 +89,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 to 6 mph",
-                "windDirection": "W",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 9. Wind chill values as low as 0. West wind 2 to 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 9. Wind chill values as low as 0. Southwest wind 2 to 6 mph."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 6 to 14 mph, with gusts as high as 26 mph."
+                "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 7 to 15 mph, with gusts as high as 29 mph."
             },
             {
                 "number": 5,
@@ -118,11 +118,11 @@
                 "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind 5 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind 5 to 10 mph."
             },
             {
                 "number": 6,
