@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-12T08:17:32+00:00",
+        "updated": "2022-01-12T15:08:50+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-12T12:39:43+00:00",
-        "updateTime": "2022-01-12T08:17:32+00:00",
-        "validTimes": "2022-01-12T02:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-12T16:38:09+00:00",
+        "updateTime": "2022-01-12T15:08:50+00:00",
+        "validTimes": "2022-01-12T09:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-01-12T07:00:00-05:00",
+                "startTime": "2022-01-12T11:00:00-05:00",
                 "endTime": "2022-01-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "14 to 20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 38. Wind chill values as low as -3. Southwest wind 10 to 20 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Partly sunny, with a high near 38. Southwest wind 14 to 20 mph, with gusts as high as 33 mph."
             },
             {
                 "number": 2,
