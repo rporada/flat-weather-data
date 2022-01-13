@@ -41,7 +41,7 @@
         "updated": "2022-01-13T14:57:57+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-13T16:39:37+00:00",
+        "generatedAt": "2022-01-13T18:29:09+00:00",
         "updateTime": "2022-01-13T14:57:57+00:00",
         "validTimes": "2022-01-13T08:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-13T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-13T13:00:00-05:00",
                 "endTime": "2022-01-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
