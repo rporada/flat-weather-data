@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-13T01:00:06+00:00",
+        "updated": "2022-01-13T02:58:14+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-13T02:44:41+00:00",
-        "updateTime": "2022-01-13T01:00:06+00:00",
-        "validTimes": "2022-01-12T18:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-13T04:32:24+00:00",
+        "updateTime": "2022-01-13T02:58:14+00:00",
+        "validTimes": "2022-01-12T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-12T21:00:00-05:00",
+                "startTime": "2022-01-12T23:00:00-05:00",
                 "endTime": "2022-01-13T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind 2 to 8 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind around 5 mph."
             },
             {
                 "number": 2,
