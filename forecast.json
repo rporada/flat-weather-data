@@ -41,7 +41,7 @@
         "updated": "2022-01-14T17:46:39+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-14T18:29:07+00:00",
+        "generatedAt": "2022-01-14T20:25:59+00:00",
         "updateTime": "2022-01-14T17:46:39+00:00",
         "validTimes": "2022-01-14T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-14T13:00:00-05:00",
+                "startTime": "2022-01-14T15:00:00-05:00",
                 "endTime": "2022-01-14T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "18 to 22 mph",
+                "windSpeed": "22 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/wind_ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 40, with temperatures falling to around 32 in the afternoon. North wind 18 to 22 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Cloudy. High near 40, with temperatures falling to around 32 in the afternoon. North wind around 22 mph, with gusts as high as 33 mph."
             },
             {
                 "number": 2,
