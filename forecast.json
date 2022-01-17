@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-17T07:56:58+00:00",
+        "updated": "2022-01-17T09:07:39+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-17T08:30:23+00:00",
-        "updateTime": "2022-01-17T07:56:58+00:00",
-        "validTimes": "2022-01-17T01:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-17T10:27:25+00:00",
+        "updateTime": "2022-01-17T09:07:39+00:00",
+        "validTimes": "2022-01-17T03:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-01-17T03:00:00-05:00",
+                "startTime": "2022-01-17T05:00:00-05:00",
                 "endTime": "2022-01-17T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "18 to 22 mph",
+                "windSpeed": "22 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/snow,90?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow before 4am, then rain. Cloudy. Low around 24, with temperatures rising to around 37 overnight. East wind 18 to 22 mph, with gusts as high as 44 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy. Low around 24, with temperatures rising to around 38 overnight. East wind around 22 mph, with gusts as high as 44 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
