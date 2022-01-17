@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-17T16:25:48+00:00",
+        "updated": "2022-01-17T17:51:20+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-17T16:38:58+00:00",
-        "updateTime": "2022-01-17T16:25:48+00:00",
-        "validTimes": "2022-01-17T10:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-17T18:30:11+00:00",
+        "updateTime": "2022-01-17T17:51:20+00:00",
+        "validTimes": "2022-01-17T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "M.L. King Jr. Day",
-                "startTime": "2022-01-17T11:00:00-05:00",
+                "startTime": "2022-01-17T13:00:00-05:00",
                 "endTime": "2022-01-17T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "17 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 1pm. Mostly cloudy. High near 45, with temperatures falling to around 37 in the afternoon. South wind around 17 mph, with gusts as high as 33 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "13 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 47, with temperatures falling to around 37 in the afternoon. Southwest wind 13 to 16 mph, with gusts as high as 31 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2022-01-17T18:00:00-05:00",
                 "endTime": "2022-01-18T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 24,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "12 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 24. Southwest wind 12 to 15 mph, with gusts as high as 26 mph."
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. West wind 9 to 14 mph, with gusts as high as 26 mph."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "13 to 18 mph",
+                "windSpeed": "13 to 20 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 29. West wind 13 to 18 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Sunny, with a high near 29. West wind 13 to 20 mph, with gusts as high as 31 mph."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 15,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 13 mph",
+                "windSpeed": "3 to 15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. West wind 3 to 13 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 15. West wind 3 to 15 mph."
             },
             {
                 "number": 5,
@@ -119,10 +119,10 @@
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "2 to 12 mph",
-                "windDirection": "SW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 43. Southwest wind 2 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 43. South wind 2 to 12 mph, with gusts as high as 22 mph."
             },
             {
                 "number": 6,
