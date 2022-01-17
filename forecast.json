@@ -38,11 +38,11 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-17T20:14:00+00:00",
+        "updated": "2022-01-17T20:22:45+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-17T20:25:42+00:00",
-        "updateTime": "2022-01-17T20:14:00+00:00",
+        "generatedAt": "2022-01-17T22:24:01+00:00",
+        "updateTime": "2022-01-17T20:22:45+00:00",
         "validTimes": "2022-01-17T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "M.L. King Jr. Day",
-                "startTime": "2022-01-17T15:00:00-05:00",
+                "startTime": "2022-01-17T17:00:00-05:00",
                 "endTime": "2022-01-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "15 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 47, with temperatures falling to around 37 in the afternoon. Southwest wind around 15 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Partly sunny. High near 47, with temperatures falling to around 37 in the afternoon. Southwest wind around 13 mph, with gusts as high as 28 mph."
             },
             {
                 "number": 2,
