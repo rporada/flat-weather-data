@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-17T02:12:21+00:00",
+        "updated": "2022-01-17T05:24:02+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-17T02:44:29+00:00",
-        "updateTime": "2022-01-17T02:12:21+00:00",
-        "validTimes": "2022-01-16T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-17T06:30:22+00:00",
+        "updateTime": "2022-01-17T05:24:02+00:00",
+        "validTimes": "2022-01-16T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-01-16T21:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-01-17T01:00:00-05:00",
                 "endTime": "2022-01-17T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 20,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "5 to 21 mph",
+                "windSpeed": "15 to 22 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,100?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely between 11pm and 2am, then rain and snow. Cloudy. Low around 20, with temperatures rising to around 40 overnight. East wind 5 to 21 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,90?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow before 4am, then rain. Cloudy. Low around 24, with temperatures rising to around 38 overnight. East wind 15 to 22 mph, with gusts as high as 44 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "14 to 26 mph",
+                "windSpeed": "14 to 28 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,100/rain_showers,30?size=medium",
                 "shortForecast": "Rain then Chance Rain Showers",
-                "detailedForecast": "Rain before noon, then a chance of rain showers between noon and 1pm. Mostly cloudy. High near 45, with temperatures falling to around 37 in the afternoon. Southeast wind 14 to 26 mph, with gusts as high as 49 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain before noon, then a chance of rain showers between noon and 1pm. Mostly cloudy. High near 45, with temperatures falling to around 37 in the afternoon. Southeast wind 14 to 28 mph, with gusts as high as 55 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 3,
