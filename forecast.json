@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-19T10:58:13+00:00",
+        "updated": "2022-01-19T14:03:23+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-19T12:35:24+00:00",
-        "updateTime": "2022-01-19T10:58:13+00:00",
-        "validTimes": "2022-01-19T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-19T14:19:41+00:00",
+        "updateTime": "2022-01-19T14:03:23+00:00",
+        "validTimes": "2022-01-19T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-01-19T07:00:00-05:00",
+                "startTime": "2022-01-19T09:00:00-05:00",
                 "endTime": "2022-01-19T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 46,
+                "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 22 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 46. Southwest wind 3 to 22 mph, with gusts as high as 39 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 45. Southwest wind 10 to 18 mph, with gusts as high as 39 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "7 to 16 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/snow,50?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of rain between 3am and 5am, then a chance of snow. Mostly cloudy. Low around 30, with temperatures rising to around 36 overnight. Southwest wind 7 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain between 3am and 5am, then a chance of snow. Mostly cloudy. Low around 30, with temperatures rising to around 36 overnight. Southwest wind 7 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
