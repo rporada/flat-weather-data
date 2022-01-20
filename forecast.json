@@ -41,7 +41,7 @@
         "updated": "2022-01-20T05:45:16+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-20T06:26:28+00:00",
+        "generatedAt": "2022-01-20T08:26:26+00:00",
         "updateTime": "2022-01-20T05:45:16+00:00",
         "validTimes": "2022-01-19T23:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-01-20T01:00:00-05:00",
+                "startTime": "2022-01-20T03:00:00-05:00",
                 "endTime": "2022-01-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
+                "windSpeed": "6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely after 4am. Cloudy. Low around 32, with temperatures rising to around 38 overnight. Southwest wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely after 4am. Cloudy. Low around 32, with temperatures rising to around 38 overnight. West wind around 6 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
