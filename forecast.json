@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-22T00:33:35+00:00",
+        "updated": "2022-01-22T02:36:45+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-22T02:35:24+00:00",
-        "updateTime": "2022-01-22T00:33:35+00:00",
-        "validTimes": "2022-01-21T18:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-22T04:28:19+00:00",
+        "updateTime": "2022-01-22T02:36:45+00:00",
+        "validTimes": "2022-01-21T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-21T21:00:00-05:00",
+                "startTime": "2022-01-21T23:00:00-05:00",
                 "endTime": "2022-01-22T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 4,
+                "temperature": 5,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "8 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/cold/snow,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers after 4am. Mostly cloudy, with a low around 4. Wind chill values as low as -7. North wind around 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow showers between 4am and 5am. Mostly cloudy, with a low around 5. Wind chill values as low as -7. North wind around 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
