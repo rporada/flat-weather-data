@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-24T13:51:49+00:00",
+        "updated": "2022-01-24T17:18:18+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-24T16:34:49+00:00",
-        "updateTime": "2022-01-24T13:51:49+00:00",
-        "validTimes": "2022-01-24T07:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-24T18:24:33+00:00",
+        "updateTime": "2022-01-24T17:18:18+00:00",
+        "validTimes": "2022-01-24T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-24T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-24T13:00:00-05:00",
                 "endTime": "2022-01-24T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 32. North wind 2 to 6 mph."
+                "windSpeed": "3 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 32. Northeast wind around 3 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,80?size=medium",
                 "shortForecast": "Light Snow",
-                "detailedForecast": "Snow after 11pm. Cloudy, with a low around 26. South wind 3 to 8 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow after 9pm. Cloudy, with a low around 26. South wind around 6 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/bkn?size=medium",
-                "shortForecast": "Chance Light Snow then Mostly Cloudy",
-                "detailedForecast": "A chance of snow before 10am. Mostly cloudy, with a high near 42. Southwest wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/rain,20?size=medium",
+                "shortForecast": "Chance Light Snow then Slight Chance Light Rain",
+                "detailedForecast": "A chance of snow before 11am, then a slight chance of rain between 11am and 1pm. Mostly cloudy, with a high near 42. Southwest wind 5 to 12 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 18. Northwest wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 18. Northwest wind around 10 mph."
             },
             {
                 "number": 5,
