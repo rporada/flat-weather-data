@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-25T15:01:58+00:00",
+        "updated": "2022-01-25T17:43:48+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-25T16:34:40+00:00",
-        "updateTime": "2022-01-25T15:01:58+00:00",
-        "validTimes": "2022-01-25T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-25T20:22:49+00:00",
+        "updateTime": "2022-01-25T17:43:48+00:00",
+        "validTimes": "2022-01-25T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-25T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-25T15:00:00-05:00",
                 "endTime": "2022-01-25T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -61,8 +61,8 @@
                 "windSpeed": "9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 42, with temperatures falling to around 35 in the afternoon. West wind around 9 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 42, with temperatures falling to around 35 in the afternoon. West wind around 9 mph."
             },
             {
                 "number": 2,
