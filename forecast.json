@@ -41,7 +41,7 @@
         "updated": "2022-01-26T02:52:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-26T06:27:16+00:00",
+        "generatedAt": "2022-01-26T08:25:18+00:00",
         "updateTime": "2022-01-26T02:52:17+00:00",
         "validTimes": "2022-01-25T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-01-26T01:00:00-05:00",
+                "startTime": "2022-01-26T03:00:00-05:00",
                 "endTime": "2022-01-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. Northwest wind around 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 14. Northwest wind around 8 mph."
             },
             {
                 "number": 2,
