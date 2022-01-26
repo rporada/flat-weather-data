@@ -41,7 +41,7 @@
         "updated": "2022-01-26T02:52:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-26T04:28:18+00:00",
+        "generatedAt": "2022-01-26T06:27:16+00:00",
         "updateTime": "2022-01-26T02:52:17+00:00",
         "validTimes": "2022-01-25T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-01-25T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-01-26T01:00:00-05:00",
                 "endTime": "2022-01-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
