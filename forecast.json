@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-27T14:57:13+00:00",
+        "updated": "2022-01-27T17:51:07+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-27T16:34:31+00:00",
-        "updateTime": "2022-01-27T14:57:13+00:00",
-        "validTimes": "2022-01-27T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-27T18:26:53+00:00",
+        "updateTime": "2022-01-27T17:51:07+00:00",
+        "validTimes": "2022-01-27T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-27T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-27T13:00:00-05:00",
                 "endTime": "2022-01-27T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "SW",
+                "windSpeed": "8 mph",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 27. Southwest wind 5 to 8 mph."
+                "detailedForecast": "Sunny, with a high near 27. South wind around 8 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 21. Southwest wind around 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 21. Southwest wind around 8 mph."
             },
             {
                 "number": 3,
@@ -103,11 +103,11 @@
                 "temperature": 16,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 15 mph",
+                "windSpeed": "3 to 14 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,50?size=medium",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow after 7pm. Cloudy, with a low around 16. North wind 6 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
+                "detailedForecast": "A chance of snow after 9pm. Cloudy, with a low around 16. North wind 3 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 5,
@@ -118,11 +118,11 @@
                 "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "15 to 21 mph",
+                "windSpeed": "14 to 22 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
                 "shortForecast": "Heavy Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy, with a high near 21. North wind 15 to 21 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of 7 to 11 inches possible."
+                "detailedForecast": "Snow likely. Cloudy, with a high near 21. North wind 14 to 22 mph, with gusts as high as 43 mph. Chance of precipitation is 70%. New snow accumulation of 8 to 12 inches possible."
             },
             {
                 "number": 6,
@@ -133,11 +133,11 @@
                 "temperature": 12,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "14 to 21 mph",
+                "windSpeed": "14 to 22 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,30?size=medium",
-                "shortForecast": "Chance Heavy Snow",
-                "detailedForecast": "A chance of snow before 3am. Mostly cloudy, with a low around 12. Northwest wind 14 to 21 mph, with gusts as high as 41 mph. Chance of precipitation is 50%. New snow accumulation of 3 to 5 inches possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,30?size=medium",
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "Snow likely before 3am. Mostly cloudy, with a low around 12. Northwest wind 14 to 22 mph, with gusts as high as 41 mph. Chance of precipitation is 60%. New snow accumulation of 3 to 5 inches possible."
             },
             {
                 "number": 7,
