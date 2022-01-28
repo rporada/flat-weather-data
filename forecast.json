@@ -41,7 +41,7 @@
         "updated": "2022-01-28T05:12:49+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-28T06:27:06+00:00",
+        "generatedAt": "2022-01-28T08:25:50+00:00",
         "updateTime": "2022-01-28T05:12:49+00:00",
         "validTimes": "2022-01-27T23:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-01-28T01:00:00-05:00",
+                "startTime": "2022-01-28T03:00:00-05:00",
                 "endTime": "2022-01-28T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
