@@ -41,7 +41,7 @@
         "updated": "2022-01-29T17:17:41+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-29T18:31:02+00:00",
+        "generatedAt": "2022-01-29T20:23:00+00:00",
         "updateTime": "2022-01-29T17:17:41+00:00",
         "validTimes": "2022-01-29T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-29T13:00:00-05:00",
+                "startTime": "2022-01-29T15:00:00-05:00",
                 "endTime": "2022-01-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "20 to 24 mph",
-                "windDirection": "N",
+                "windSpeed": "21 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/blizzard,100?size=medium",
                 "shortForecast": "Heavy Snow And Areas Of Blowing Snow",
-                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. North wind 20 to 24 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible."
+                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. Northwest wind around 21 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
             },
             {
                 "number": 2,
