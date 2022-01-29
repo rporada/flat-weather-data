@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-29T17:17:41+00:00",
+        "updated": "2022-01-29T20:54:00+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-29T20:23:00+00:00",
-        "updateTime": "2022-01-29T17:17:41+00:00",
-        "validTimes": "2022-01-29T11:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-29T22:20:49+00:00",
+        "updateTime": "2022-01-29T20:54:00+00:00",
+        "validTimes": "2022-01-29T14:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-29T15:00:00-05:00",
+                "startTime": "2022-01-29T17:00:00-05:00",
                 "endTime": "2022-01-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "21 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/blizzard,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/blizzard,90?size=medium",
                 "shortForecast": "Heavy Snow And Areas Of Blowing Snow",
-                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. Northwest wind around 21 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. Wind chill values as low as -2. Northwest wind around 20 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2022-01-29T18:00:00-05:00",
                 "endTime": "2022-01-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 9,
+                "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "13 to 21 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/blizzard,80/blizzard?size=medium",
-                "shortForecast": "Heavy Snow Likely And Areas Of Blowing Snow then Areas Of Blowing Snow",
-                "detailedForecast": "Snow likely and areas of blowing snow before 8pm, then areas of blowing snow and a chance of snow. Mostly cloudy, with a low around 9. Wind chill values as low as -6. Northwest wind 13 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+                "shortForecast": "Heavy Snow And Areas Of Blowing Snow then Areas Of Blowing Snow",
+                "detailedForecast": "Snow and areas of blowing snow before 8pm, then areas of blowing snow and a chance of snow between 8pm and 4am. Mostly cloudy, with a low around 4. Wind chill values as low as -12. Northwest wind 13 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
             },
             {
                 "number": 3,
@@ -90,9 +90,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 to 12 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/blizzard/few?size=medium",
-                "shortForecast": "Areas Of Blowing Snow then Sunny",
-                "detailedForecast": "Areas of blowing snow before 7am. Sunny, with a high near 23. Wind chill values as low as -5. West wind 7 to 12 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 23. Wind chill values as low as -12. West wind 7 to 12 mph."
             },
             {
                 "number": 4,
@@ -100,14 +100,14 @@
                 "startTime": "2022-01-30T18:00:00-05:00",
                 "endTime": "2022-01-31T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 5,
+                "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 5. West wind 2 to 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 4. Wind chill values as low as -1. West wind around 6 mph."
             },
             {
                 "number": 5,
