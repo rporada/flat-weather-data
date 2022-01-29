@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-29T15:55:24+00:00",
+        "updated": "2022-01-29T17:17:41+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-29T16:32:39+00:00",
-        "updateTime": "2022-01-29T15:55:24+00:00",
-        "validTimes": "2022-01-29T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-29T18:31:02+00:00",
+        "updateTime": "2022-01-29T17:17:41+00:00",
+        "validTimes": "2022-01-29T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-29T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-29T13:00:00-05:00",
                 "endTime": "2022-01-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "20 to 24 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/blizzard,100?size=medium",
                 "shortForecast": "Heavy Snow And Areas Of Blowing Snow",
-                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. Wind chill values as low as 0. North wind 20 to 25 mph, with gusts as high as 51 mph. Chance of precipitation is 100%. New snow accumulation of 10 to 14 inches possible."
+                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 20. North wind 20 to 24 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 9,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "12 to 20 mph",
+                "windSpeed": "13 to 21 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/blizzard,70/blizzard?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/blizzard,80/blizzard?size=medium",
                 "shortForecast": "Heavy Snow Likely And Areas Of Blowing Snow then Areas Of Blowing Snow",
-                "detailedForecast": "Snow likely and areas of blowing snow before 8pm, then areas of blowing snow and a chance of snow. Mostly cloudy, with a low around 9. Wind chill values as low as -6. Northwest wind 12 to 20 mph, with gusts as high as 38 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
+                "detailedForecast": "Snow likely and areas of blowing snow before 8pm, then areas of blowing snow and a chance of snow. Mostly cloudy, with a low around 9. Wind chill values as low as -6. Northwest wind 13 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 3,
@@ -92,7 +92,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/blizzard/few?size=medium",
                 "shortForecast": "Areas Of Blowing Snow then Sunny",
-                "detailedForecast": "Areas of blowing snow before 7am. Sunny, with a high near 23. Wind chill values as low as -5. West wind 7 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Areas of blowing snow before 7am. Sunny, with a high near 23. Wind chill values as low as -5. West wind 7 to 12 mph."
             },
             {
                 "number": 4,
