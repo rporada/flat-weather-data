@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-29T02:44:16+00:00",
+        "updated": "2022-01-29T05:18:27+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-29T04:28:30+00:00",
-        "updateTime": "2022-01-29T02:44:16+00:00",
-        "validTimes": "2022-01-28T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-29T06:26:01+00:00",
+        "updateTime": "2022-01-29T05:18:27+00:00",
+        "validTimes": "2022-01-28T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-01-28T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-01-29T01:00:00-05:00",
                 "endTime": "2022-01-29T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 17,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "8 to 16 mph",
+                "windSpeed": "12 to 16 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70/snow,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 17, with temperatures rising to around 23 overnight. North wind 8 to 16 mph, with gusts as high as 32 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+                "detailedForecast": "Snow. Cloudy. Low around 17, with temperatures rising to around 23 overnight. North wind 12 to 16 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 2,
