@@ -41,7 +41,7 @@
         "updated": "2022-01-30T19:11:41+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-30T20:22:24+00:00",
+        "generatedAt": "2022-01-30T22:20:44+00:00",
         "updateTime": "2022-01-30T19:11:41+00:00",
         "validTimes": "2022-01-30T13:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-01-30T15:00:00-05:00",
+                "startTime": "2022-01-30T17:00:00-05:00",
                 "endTime": "2022-01-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 24. West wind around 10 mph."
+                "detailedForecast": "Sunny, with a high near 24. West wind around 8 mph."
             },
             {
                 "number": 2,
