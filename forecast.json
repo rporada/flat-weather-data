@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-29T23:02:17+00:00",
+        "updated": "2022-01-30T03:35:53+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-30T02:33:44+00:00",
-        "updateTime": "2022-01-29T23:02:17+00:00",
-        "validTimes": "2022-01-29T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-30T04:28:22+00:00",
+        "updateTime": "2022-01-30T03:35:53+00:00",
+        "validTimes": "2022-01-29T21:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-01-29T21:00:00-05:00",
+                "startTime": "2022-01-29T23:00:00-05:00",
                 "endTime": "2022-01-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "13 to 18 mph",
+                "windSpeed": "13 to 17 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/blizzard,40/blizzard?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/blizzard,20/blizzard?size=medium",
                 "shortForecast": "Areas Of Blowing Snow",
-                "detailedForecast": "Areas of blowing snow and a chance of snow before 4am. Mostly cloudy, with a low around 4. Wind chill values as low as -12. Northwest wind 13 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Areas of blowing snow and a slight chance of snow before 4am. Mostly cloudy, with a low around 4. Wind chill values as low as -12. Northwest wind 13 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
