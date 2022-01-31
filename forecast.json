@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-31T14:30:39+00:00",
+        "updated": "2022-01-31T17:28:30+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-31T16:33:08+00:00",
-        "updateTime": "2022-01-31T14:30:39+00:00",
-        "validTimes": "2022-01-31T08:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-31T18:25:52+00:00",
+        "updateTime": "2022-01-31T17:28:30+00:00",
+        "validTimes": "2022-01-31T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-01-31T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-01-31T13:00:00-05:00",
                 "endTime": "2022-01-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 mph",
-                "windDirection": "W",
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 28. West wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 28. Southwest wind 3 to 7 mph."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2022-01-31T18:00:00-05:00",
                 "endTime": "2022-02-01T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 13,
+                "temperature": 12,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 5 mph",
-                "windDirection": "N",
+                "windSpeed": "3 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 13. North wind 1 to 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 12. Northwest wind around 3 mph."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2022-02-01T06:00:00-05:00",
                 "endTime": "2022-02-01T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 34,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 34. Northeast wind around 5 mph."
+                "windSpeed": "7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers after 8am. Mostly cloudy, with a high near 35. East wind around 7 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 4,
@@ -100,14 +100,14 @@
                 "startTime": "2022-02-01T18:00:00-05:00",
                 "endTime": "2022-02-02T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 29,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "1 to 5 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 29. Southeast wind 1 to 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Snow Showers then Cloudy",
+                "detailedForecast": "A slight chance of snow showers before 10pm. Cloudy, with a low around 27. Southeast wind 3 to 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 5,
@@ -118,11 +118,11 @@
                 "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
                 "shortForecast": "Slight Chance Light Rain then Cloudy",
-                "detailedForecast": "A slight chance of rain between 9am and noon. Cloudy, with a high near 42. South wind around 3 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain between 9am and noon. Cloudy, with a high near 42. South wind 1 to 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 6,
