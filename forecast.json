@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-01-31T11:07:54+00:00",
+        "updated": "2022-01-31T14:30:39+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-01-31T14:19:53+00:00",
-        "updateTime": "2022-01-31T11:07:54+00:00",
-        "validTimes": "2022-01-31T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-01-31T16:33:08+00:00",
+        "updateTime": "2022-01-31T14:30:39+00:00",
+        "validTimes": "2022-01-31T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-01-31T09:00:00-05:00",
+                "startTime": "2022-01-31T11:00:00-05:00",
                 "endTime": "2022-01-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
+                "windSpeed": "6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 28. Northwest wind around 5 mph."
+                "detailedForecast": "Sunny, with a high near 28. West wind around 6 mph."
             },
             {
                 "number": 2,
