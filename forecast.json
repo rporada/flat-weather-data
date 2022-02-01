@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-01T09:49:42+00:00",
+        "updated": "2022-02-01T14:26:10+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-01T12:35:30+00:00",
-        "updateTime": "2022-02-01T09:49:42+00:00",
-        "validTimes": "2022-02-01T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-01T16:35:37+00:00",
+        "updateTime": "2022-02-01T14:26:10+00:00",
+        "validTimes": "2022-02-01T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-01T07:00:00-05:00",
+                "startTime": "2022-02-01T11:00:00-05:00",
                 "endTime": "2022-02-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers between 9am and noon, then a chance of snow showers and a slight chance of freezing drizzle between noon and 2pm, then a chance of snow showers and a slight chance of drizzle between 2pm and 5pm, then a slight chance of snow showers and a slight chance of freezing drizzle. Mostly cloudy, with a high near 34. Northeast wind around 7 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A slight chance of snow showers before noon, then a chance of snow showers and patchy freezing drizzle between noon and 2pm, then a chance of snow showers and patchy drizzle between 2pm and 5pm, then patchy freezing drizzle and a slight chance of snow showers. Cloudy, with a high near 34. Northeast wind around 6 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
-                "shortForecast": "Slight Chance Snow Showers then Cloudy",
-                "detailedForecast": "A slight chance of snow showers and a slight chance of freezing drizzle before 7pm. Cloudy, with a low around 28. Southeast wind around 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/ovc?size=medium",
+                "shortForecast": "Chance Snow Showers then Cloudy",
+                "detailedForecast": "A chance of snow showers and patchy freezing drizzle before 8pm. Cloudy, with a low around 28. Southeast wind around 3 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 3,
