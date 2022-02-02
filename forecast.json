@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-02T02:44:11+00:00",
+        "updated": "2022-02-02T06:09:17+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-02T04:28:24+00:00",
-        "updateTime": "2022-02-02T02:44:11+00:00",
-        "validTimes": "2022-02-01T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-02T06:26:18+00:00",
+        "updateTime": "2022-02-02T06:09:17+00:00",
+        "validTimes": "2022-02-02T00:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-02-01T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-02-02T01:00:00-05:00",
                 "endTime": "2022-02-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers and a slight chance of freezing drizzle before 1am. Cloudy, with a low around 28. Southeast wind around 2 mph."
+                "windSpeed": "3 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 28. South wind around 3 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 40. South wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 3pm. Cloudy, with a high near 40. South wind around 2 mph."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 9pm. Cloudy, with a low around 36. Southwest wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 36. Southwest wind 1 to 5 mph."
             },
             {
                 "number": 4,
@@ -103,11 +103,11 @@
                 "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 7am. Cloudy, with a high near 45. Southwest wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain. Cloudy, with a high near 45. Southwest wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 5,
