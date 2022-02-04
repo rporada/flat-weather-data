@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-04T02:03:16+00:00",
+        "updated": "2022-02-04T04:56:15+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-04T02:22:45+00:00",
-        "updateTime": "2022-02-04T02:03:16+00:00",
-        "validTimes": "2022-02-03T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-04T06:21:41+00:00",
+        "updateTime": "2022-02-04T04:56:15+00:00",
+        "validTimes": "2022-02-03T22:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-02-03T21:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-02-04T01:00:00-05:00",
                 "endTime": "2022-02-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
-                "windSpeed": "3 to 9 mph",
-                "windDirection": "NE",
+                "windSpeed": "7 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and areas of fog. Cloudy. Low around 30, with temperatures rising to around 36 overnight. Northeast wind 3 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy. Low around 30, with temperatures rising to around 37 overnight. North wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
@@ -76,8 +76,8 @@
                 "windSpeed": "9 to 13 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/rain_fzra,100/snow_sleet,90?size=medium",
-                "shortForecast": "Freezing Rain then Sleet",
-                "detailedForecast": "Rain and areas of fog before 7am, then freezing rain between 7am and 1pm, then sleet. Cloudy. High near 32, with temperatures falling to around 21 in the afternoon. North wind 9 to 13 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
+                "shortForecast": "Sleet",
+                "detailedForecast": "Rain and patchy fog before 8am, then freezing rain and patchy fog between 8am and 10am, then sleet and freezing rain and patchy fog. Cloudy. High near 32, with temperatures falling to around 23 in the afternoon. North wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. Little or no ice accumulation expected."
             },
             {
                 "number": 3,
@@ -85,14 +85,14 @@
                 "startTime": "2022-02-04T18:00:00-05:00",
                 "endTime": "2022-02-05T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 15,
+                "temperature": 16,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sleet,30/ovc?size=medium",
-                "shortForecast": "Slight Chance Light Snow then Cloudy",
-                "detailedForecast": "A chance of sleet before 7pm, then a slight chance of snow and a slight chance of sleet between 7pm and 11pm. Cloudy, with a low around 15. North wind 6 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow_fzra,30/ovc?size=medium",
+                "shortForecast": "Patchy Fog then Cloudy",
+                "detailedForecast": "A chance of sleet and a chance of freezing rain before 7pm, then patchy fog and a slight chance of snow and a slight chance of sleet between 7pm and 9pm. Cloudy, with a low around 16. North wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
