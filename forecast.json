@@ -41,7 +41,7 @@
         "updated": "2022-02-04T04:56:15+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-04T06:21:41+00:00",
+        "generatedAt": "2022-02-04T08:21:28+00:00",
         "updateTime": "2022-02-04T04:56:15+00:00",
         "validTimes": "2022-02-03T22:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2022-02-04T01:00:00-05:00",
+                "startTime": "2022-02-04T03:00:00-05:00",
                 "endTime": "2022-02-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "rising",
                 "windSpeed": "7 mph",
-                "windDirection": "N",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy. Low around 30, with temperatures rising to around 37 overnight. North wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain and patchy fog. Cloudy. Low around 30, with temperatures rising to around 37 overnight. Northeast wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
