@@ -41,7 +41,7 @@
         "updated": "2022-02-04T09:21:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-04T12:29:08+00:00",
+        "generatedAt": "2022-02-04T14:17:19+00:00",
         "updateTime": "2022-02-04T09:21:56+00:00",
         "validTimes": "2022-02-04T03:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-04T07:00:00-05:00",
+                "startTime": "2022-02-04T09:00:00-05:00",
                 "endTime": "2022-02-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "9 to 13 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_fzra,100/snow_sleet,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow_sleet,100/snow_sleet,90?size=medium",
                 "shortForecast": "Sleet",
-                "detailedForecast": "Rain and patchy fog before 8am, then freezing rain and patchy fog between 8am and 10am, then sleet and freezing rain. Cloudy. High near 32, with temperatures falling to around 23 in the afternoon. North wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+                "detailedForecast": "Freezing rain before 10am, then sleet and freezing rain. Cloudy. High near 32, with temperatures falling to around 23 in the afternoon. North wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
