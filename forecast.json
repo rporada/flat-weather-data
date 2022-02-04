@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-04T09:21:56+00:00",
+        "updated": "2022-02-04T14:36:43+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-04T14:17:19+00:00",
-        "updateTime": "2022-02-04T09:21:56+00:00",
-        "validTimes": "2022-02-04T03:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-04T16:28:38+00:00",
+        "updateTime": "2022-02-04T14:36:43+00:00",
+        "validTimes": "2022-02-04T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-04T09:00:00-05:00",
+                "startTime": "2022-02-04T11:00:00-05:00",
                 "endTime": "2022-02-04T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 32,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow_sleet,100/snow_sleet,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow_sleet,100?size=medium",
                 "shortForecast": "Sleet",
-                "detailedForecast": "Freezing rain before 10am, then sleet and freezing rain. Cloudy. High near 32, with temperatures falling to around 23 in the afternoon. North wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+                "detailedForecast": "Sleet and freezing rain. Cloudy. High near 33, with temperatures falling to around 24 in the afternoon. North wind around 10 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow_fzra,30/ovc?size=medium",
-                "shortForecast": "Patchy Fog then Cloudy",
-                "detailedForecast": "A chance of sleet and a chance of freezing rain before 7pm, then patchy fog and a slight chance of snow and a slight chance of sleet between 7pm and 9pm. Cloudy, with a low around 16. North wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sleet,70/ovc?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Cloudy",
+                "detailedForecast": "Sleet likely before 9pm, then a slight chance of snow between 9pm and 10pm. Cloudy, with a low around 16. North wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
