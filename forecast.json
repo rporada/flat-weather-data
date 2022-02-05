@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-04T23:48:23+00:00",
+        "updated": "2022-02-05T02:45:22+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-05T02:21:24+00:00",
-        "updateTime": "2022-02-04T23:48:23+00:00",
-        "validTimes": "2022-02-04T17:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-05T04:23:51+00:00",
+        "updateTime": "2022-02-05T02:45:22+00:00",
+        "validTimes": "2022-02-04T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-02-04T21:00:00-05:00",
+                "startTime": "2022-02-04T23:00:00-05:00",
                 "endTime": "2022-02-05T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 17,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sleet,40/ovc?size=medium",
-                "shortForecast": "Chance Light Snow then Cloudy",
-                "detailedForecast": "A chance of snow and a chance of sleet before midnight. Cloudy, with a low around 17. North wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Cloudy",
+                "detailedForecast": "A slight chance of snow before midnight. Cloudy, with a low around 17. North wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -75,9 +75,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "7 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 25. Northwest wind 7 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 25. Northwest wind 7 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 3,
