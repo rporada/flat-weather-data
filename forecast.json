@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-06T11:16:13+00:00",
+        "updated": "2022-02-06T14:06:10+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-06T12:33:15+00:00",
-        "updateTime": "2022-02-06T11:16:13+00:00",
-        "validTimes": "2022-02-06T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-06T16:31:52+00:00",
+        "updateTime": "2022-02-06T14:06:10+00:00",
+        "validTimes": "2022-02-06T08:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-06T07:00:00-05:00",
+                "startTime": "2022-02-06T11:00:00-05:00",
                 "endTime": "2022-02-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "2 to 7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 25. East wind 2 to 7 mph."
+                "windSpeed": "1 to 6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 25. Southeast wind 1 to 6 mph."
             },
             {
                 "number": 2,
@@ -73,11 +73,11 @@
                 "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "3 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 19. South wind around 3 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 19. South wind around 5 mph."
             },
             {
                 "number": 3,
