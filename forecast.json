@@ -41,7 +41,7 @@
         "updated": "2022-02-07T17:41:18+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-07T18:25:57+00:00",
+        "generatedAt": "2022-02-07T20:18:35+00:00",
         "updateTime": "2022-02-07T17:41:18+00:00",
         "validTimes": "2022-02-07T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-02-07T13:00:00-05:00",
+                "startTime": "2022-02-07T15:00:00-05:00",
                 "endTime": "2022-02-07T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "5 mph",
-                "windDirection": "E",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a high near 37. East wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain likely. Cloudy, with a high near 37. Northeast wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
