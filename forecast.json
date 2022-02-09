@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-09T15:03:54+00:00",
+        "updated": "2022-02-09T17:49:05+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-09T16:34:40+00:00",
-        "updateTime": "2022-02-09T15:03:54+00:00",
-        "validTimes": "2022-02-09T09:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-09T18:26:18+00:00",
+        "updateTime": "2022-02-09T17:49:05+00:00",
+        "validTimes": "2022-02-09T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,8 +51,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2022-02-09T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2022-02-09T13:00:00-05:00",
                 "endTime": "2022-02-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
