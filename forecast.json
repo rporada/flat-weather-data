@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-08T20:23:00+00:00",
+        "updated": "2022-02-09T02:22:55+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-09T01:21:28+00:00",
-        "updateTime": "2022-02-08T20:23:00+00:00",
-        "validTimes": "2022-02-08T14:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-09T02:38:13+00:00",
+        "updateTime": "2022-02-09T02:22:55+00:00",
+        "validTimes": "2022-02-08T20:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2022-02-08T20:00:00-05:00",
+                "startTime": "2022-02-08T21:00:00-05:00",
                 "endTime": "2022-02-09T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -60,9 +60,9 @@
                 "temperatureTrend": null,
                 "windSpeed": "12 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 25. West wind around 12 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. West wind around 12 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 2,
