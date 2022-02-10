@@ -41,7 +41,7 @@
         "updated": "2022-02-10T19:46:11+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-10T20:22:30+00:00",
+        "generatedAt": "2022-02-10T22:19:35+00:00",
         "updateTime": "2022-02-10T19:46:11+00:00",
         "validTimes": "2022-02-10T13:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2022-02-10T15:00:00-05:00",
+                "startTime": "2022-02-10T17:00:00-05:00",
                 "endTime": "2022-02-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": "falling",
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
+                "windSpeed": "8 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 52, with temperatures falling to around 46 in the afternoon. Southwest wind around 10 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly sunny. High near 52, with temperatures falling to around 46 in the afternoon. West wind around 8 mph, with gusts as high as 21 mph."
             },
             {
                 "number": 2,
