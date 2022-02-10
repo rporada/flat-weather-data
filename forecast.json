@@ -41,7 +41,7 @@
         "updated": "2022-02-10T12:18:36+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-10T12:34:58+00:00",
+        "generatedAt": "2022-02-10T14:20:03+00:00",
         "updateTime": "2022-02-10T12:18:36+00:00",
         "validTimes": "2022-02-10T06:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,17 +52,17 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-10T07:00:00-05:00",
+                "startTime": "2022-02-10T09:00:00-05:00",
                 "endTime": "2022-02-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 48. Southwest wind 5 to 10 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Partly sunny, with a high near 48. Southwest wind 7 to 10 mph, with gusts as high as 22 mph."
             },
             {
                 "number": 2,
