@@ -41,7 +41,7 @@
         "updated": "2022-02-12T07:59:51+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-12T12:33:41+00:00",
+        "generatedAt": "2022-02-12T14:19:01+00:00",
         "updateTime": "2022-02-12T07:59:51+00:00",
         "validTimes": "2022-02-12T01:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-12T07:00:00-05:00",
+                "startTime": "2022-02-12T09:00:00-05:00",
                 "endTime": "2022-02-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 61,
