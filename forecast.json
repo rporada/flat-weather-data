@@ -41,7 +41,7 @@
         "updated": "2022-02-13T13:47:40+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-13T14:18:42+00:00",
+        "generatedAt": "2022-02-13T16:31:47+00:00",
         "updateTime": "2022-02-13T13:47:40+00:00",
         "validTimes": "2022-02-13T07:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-13T09:00:00-05:00",
+                "startTime": "2022-02-13T11:00:00-05:00",
                 "endTime": "2022-02-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -62,7 +62,7 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,80?size=medium",
                 "shortForecast": "Light Snow",
-                "detailedForecast": "Snow. Cloudy, with a high near 30. North wind around 7 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+                "detailedForecast": "Snow. Cloudy, with a high near 30. North wind around 7 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 2,
