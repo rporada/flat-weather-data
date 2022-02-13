@@ -38,12 +38,12 @@
         ]
     },
     "properties": {
-        "updated": "2022-02-13T02:44:21+00:00",
+        "updated": "2022-02-13T05:55:56+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-13T04:28:05+00:00",
-        "updateTime": "2022-02-13T02:44:21+00:00",
-        "validTimes": "2022-02-12T20:00:00+00:00/P8DT6H",
+        "generatedAt": "2022-02-13T06:25:37+00:00",
+        "updateTime": "2022-02-13T05:55:56+00:00",
+        "validTimes": "2022-02-12T23:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 10.058400000000001
@@ -51,18 +51,18 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2022-02-12T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2022-02-13T01:00:00-05:00",
                 "endTime": "2022-02-13T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,30?size=medium",
-                "shortForecast": "Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after 3am. Cloudy, with a low around 28. Northwest wind 6 to 10 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow after 5am. Cloudy, with a low around 28. Northwest wind around 8 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -70,14 +70,14 @@
                 "startTime": "2022-02-13T06:00:00-05:00",
                 "endTime": "2022-02-13T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 29,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "windSpeed": "7 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy, with a high near 29. North wind around 7 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow likely. Cloudy, with a high near 32. North wind around 7 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 3,
@@ -88,11 +88,11 @@
                 "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
-                "windSpeed": "9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,30?size=medium",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a low around 18. North wind around 9 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "A chance of snow before 5am. Cloudy, with a low around 18. North wind around 8 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 4,
@@ -107,7 +107,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Light Snow then Partly Sunny",
-                "detailedForecast": "A slight chance of snow before 8am. Partly sunny, with a high near 22. Northwest wind 8 to 14 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow before 7am. Partly sunny, with a high near 22. Northwest wind 8 to 14 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 5,
