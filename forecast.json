@@ -41,7 +41,7 @@
         "updated": "2022-02-15T10:02:45+00:00",
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2022-02-15T12:35:46+00:00",
+        "generatedAt": "2022-02-15T13:37:15+00:00",
         "updateTime": "2022-02-15T10:02:45+00:00",
         "validTimes": "2022-02-15T04:00:00+00:00/P8DT6H",
         "elevation": {
@@ -52,7 +52,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2022-02-15T07:00:00-05:00",
+                "startTime": "2022-02-15T08:00:00-05:00",
                 "endTime": "2022-02-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -62,7 +62,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 27. Wind chill values as low as -1. West wind 6 to 10 mph."
+                "detailedForecast": "Sunny, with a high near 27. West wind 6 to 10 mph."
             },
             {
                 "number": 2,
